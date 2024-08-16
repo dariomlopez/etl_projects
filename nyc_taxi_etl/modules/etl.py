@@ -33,11 +33,11 @@ def load_taxi_tripdata():
         'tpep_dropoff_datetime':'dropoff_datetime',
         'pulocation_id':'pickup_location', 'dolocation_id':'dropoff_location'}, inplace=True)
 
-    # ---- Changing the types of datetime columns ----
-    taxi_df['pickup_datetime'] = taxi_df['pickup_datetime'].astype("datetime64[ns]")
-    taxi_df['dropoff_datetime'] = taxi_df['dropoff_datetime'].astype("datetime64[ns]")
+    # # ---- Changing the types of datetime columns ----
+    # taxi_df['pickup_datetime'] = taxi_df['pickup_datetime'].astype("datetime64[ns]")
+    # taxi_df['dropoff_datetime'] = taxi_df['dropoff_datetime'].astype("datetime64[ns]")
 
-    print(taxi_df.columns)
+    # print(taxi_df.columns)
 
     # ---- Cleaning columns: erase where RatecodeID is > 6, erase negative values in total_amount and drop null data ----
     taxi_df_filtered = taxi_df[(taxi_df['ratecode_id'] <= 6) & (taxi_df['total_amount'] > 0)]
@@ -62,10 +62,34 @@ def load_taxi_tripdata():
             (taxi_data_prep['pickup_datetime'].dt.month > 1) |
             (taxi_df_filtered['dropoff_datetime'].dt.month > 1)
             ].index)
+    
+    # ---- droping outliers in trip distance and total amount ----
+    conditions = taxi_data_prep[    
+    (taxi_data_prep['trip_distance'] <= 1) & (taxi_data_prep['total_amount'] > 10) &
+    (taxi_data_prep['trip_distance'] <= 2) & (taxi_data_prep['total_amount'] > 15) &
+    (taxi_data_prep['trip_distance'] <= 3) & (taxi_data_prep['total_amount'] > 20) &
+    (taxi_data_prep['trip_distance'] <= 5) & (taxi_data_prep['total_amount'] > 35) &
+    (taxi_data_prep['trip_distance'] <= 10) & (taxi_data_prep['total_amount'] > 50) &
+    (taxi_data_prep['trip_distance'] <= 20) & (taxi_data_prep['total_amount'] > 100)
+    ].index
+
+    print('''---- outliers ----''')
+    print(conditions.shape[0])
+
+    taxi_df_cleaned = taxi_data_prep.drop(~conditions, inplace=True)
+
+    print(taxi_df_cleaned)
+#     results = [True, True, True, True, True, True]
+
+#     # Crear una nueva columna 'tarifa_muy_alta' que aplica estas condiciones
+#     taxi_data_prep['excessive_amount'] = np.select(conditions, results, default=False)
+
+# # Mostrar algunas filas para verificar el resultado
+#     taxi_data_prep = taxi_data_prep.drop(taxi_data_prep[taxi_data_prep['excessive_amount'] == True].index)
 
     insert_with_progress(
     connection,
-    taxi_data_prep,
+    taxi_df_cleaned,
     table_name='yellow_taxi_2024_01',
     schema='public'
     )
