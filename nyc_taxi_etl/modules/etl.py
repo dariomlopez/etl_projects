@@ -65,20 +65,21 @@ def load_taxi_tripdata():
     
     # ---- droping outliers in trip distance and total amount ----
     conditions = taxi_data_prep[    
-    (taxi_data_prep['trip_distance'] <= 1) & (taxi_data_prep['total_amount'] > 10) &
-    (taxi_data_prep['trip_distance'] <= 2) & (taxi_data_prep['total_amount'] > 15) &
-    (taxi_data_prep['trip_distance'] <= 3) & (taxi_data_prep['total_amount'] > 20) &
-    (taxi_data_prep['trip_distance'] <= 5) & (taxi_data_prep['total_amount'] > 35) &
-    (taxi_data_prep['trip_distance'] <= 10) & (taxi_data_prep['total_amount'] > 50) &
-    (taxi_data_prep['trip_distance'] <= 20) & (taxi_data_prep['total_amount'] > 100)
+    (taxi_data_prep['trip_distance'] < 1) & (taxi_data_prep['total_amount'] > 10) |
+    (taxi_data_prep['trip_distance'] < 2) & (taxi_data_prep['total_amount'] > 15) |
+    (taxi_data_prep['trip_distance'] < 3) & (taxi_data_prep['total_amount'] > 20) |
+    (taxi_data_prep['trip_distance'] < 5) & (taxi_data_prep['total_amount'] > 35) |
+    (taxi_data_prep['trip_distance'] < 10) & (taxi_data_prep['total_amount'] > 50) |
+    (taxi_data_prep['trip_distance'] < 20) & (taxi_data_prep['total_amount'] > 100)
     ].index
 
     print('''---- outliers ----''')
-    print(conditions.shape[0])
+    print("Número de filas antes de eliminar outliers:", len(taxi_data_prep))
 
-    taxi_df_cleaned = taxi_data_prep.drop(~conditions, inplace=True)
+    taxi_df_cleaned = taxi_data_prep.drop(conditions, errors='ignore')
 
-    print(taxi_df_cleaned)
+    print("Número de filas después de eliminar outliers:", len(taxi_df_cleaned))
+    # print(taxi_df_cleaned)
 #     results = [True, True, True, True, True, True]
 
 #     # Crear una nueva columna 'tarifa_muy_alta' que aplica estas condiciones
