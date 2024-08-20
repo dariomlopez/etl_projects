@@ -5,6 +5,7 @@ from sqlalchemy import create_engine, event
 
 load_dotenv()
 
+# ---- connection ----
 def postgres_connection():
     
     connection_url = os.getenv("CONNECTION_URL")
@@ -23,6 +24,7 @@ def postgres_connection():
     
 postgres_connection()
 
+# ---- Functions to see if there are problems
 def calculate_thresholds(df, column, multiplier=1.5):
     Q1 = df[column].quantile(0.25)
     Q3 = df[column].quantile(0.75)

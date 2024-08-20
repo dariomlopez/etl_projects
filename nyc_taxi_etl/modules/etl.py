@@ -33,12 +33,6 @@ def load_taxi_tripdata():
         'tpep_dropoff_datetime':'dropoff_datetime',
         'pulocation_id':'pickup_location', 'dolocation_id':'dropoff_location'}, inplace=True)
 
-    # # ---- Changing the types of datetime columns ----
-    # taxi_df['pickup_datetime'] = taxi_df['pickup_datetime'].astype("datetime64[ns]")
-    # taxi_df['dropoff_datetime'] = taxi_df['dropoff_datetime'].astype("datetime64[ns]")
-
-    # print(taxi_df.columns)
-
     # ---- Cleaning columns: erase where RatecodeID is > 6, erase negative values in total_amount and drop null data ----
     taxi_df_filtered = taxi_df[(taxi_df['ratecode_id'] <= 6) & (taxi_df['total_amount'] > 0)]
 
