@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 # import our own modules
-from modules.utils import postgres_connection
+from modules.utils import postgres_connection, calculate_thresholds
 
 def load_taxi_tripdata():
     url = 'https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-01.parquet'
@@ -61,32 +61,21 @@ def load_taxi_tripdata():
         taxi_data_prep[
             (taxi_data_prep['pickup_datetime'].dt.month > 1) |
             (taxi_df_filtered['dropoff_datetime'].dt.month > 1)
-            ].index)
+            ].index, inplace=True)
     
     # ---- droping outliers in trip distance and total amount ----
-    conditions = taxi_data_prep[    
-    (taxi_data_prep['trip_distance'] < 1) & (taxi_data_prep['total_amount'] > 10) |
-    (taxi_data_prep['trip_distance'] < 2) & (taxi_data_prep['total_amount'] > 15) |
-    (taxi_data_prep['trip_distance'] < 3) & (taxi_data_prep['total_amount'] > 20) |
-    (taxi_data_prep['trip_distance'] < 5) & (taxi_data_prep['total_amount'] > 35) |
-    (taxi_data_prep['trip_distance'] < 10) & (taxi_data_prep['total_amount'] > 50) |
-    (taxi_data_prep['trip_distance'] < 20) & (taxi_data_prep['total_amount'] > 100)
-    ].index
+    lower_amount, upper_amount = calculate_thresholds(taxi_data_prep, 'total_amount')
+    lower_distance, upper_distance = calculate_thresholds(taxi_data_prep, 'trip_distance')
 
-    print('''---- outliers ----''')
-    print("Número de filas antes de eliminar outliers:", len(taxi_data_prep))
+    # Filter the data to remove outliers
+    taxi_df_cleaned = taxi_data_prep[
+        (taxi_data_prep['total_amount'] >= lower_amount) & (taxi_data_prep['total_amount'] <= upper_amount) &
+        (taxi_data_prep['trip_distance'] >= lower_distance) & (taxi_data_prep['trip_distance'] <= upper_distance)
+    ]
 
-    taxi_df_cleaned = taxi_data_prep.drop(conditions, errors='ignore')
+    correlation = taxi_df_cleaned[['trip_distance', 'total_amount']].corr().iloc[0, 1]
+    print(f"Correlation between trip distance and total amount: {correlation:.2f}")
 
-    print("Número de filas después de eliminar outliers:", len(taxi_df_cleaned))
-    # print(taxi_df_cleaned)
-#     results = [True, True, True, True, True, True]
-
-#     # Crear una nueva columna 'tarifa_muy_alta' que aplica estas condiciones
-#     taxi_data_prep['excessive_amount'] = np.select(conditions, results, default=False)
-
-# # Mostrar algunas filas para verificar el resultado
-#     taxi_data_prep = taxi_data_prep.drop(taxi_data_prep[taxi_data_prep['excessive_amount'] == True].index)
 
     insert_with_progress(
     connection,
