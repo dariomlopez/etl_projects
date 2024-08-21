@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import random
 
-years = list(range(2009, 2025))  # From 2009 to 2024
+years = list(range(2010, 2025))  # From 2009 to 2024
 months = list(range(1, 13))  # From January (1) to December (12)
 
 def drop_na(df):
@@ -13,10 +13,20 @@ def drop_na(df):
     print("No NaN or null values found")
 
 def wrong_ratecode(df):
-  pass
+  ratecodes_count = (df['RatecodeID'] > 6).sum()
+
+  if ratecodes_count > 0:
+    print(f"Found {ratecodes_count} rows with wrong ratecodeID")
+  else:
+    print("RatecodeID is OK, polilla")
 
 def negative_amount(df):
-  pass
+  negative_count = (df['total_amount'] < 0).sum()
+
+  if negative_count > 0:
+    print(f"Found {negative_count} rows with negative total_amount values.")
+  else:
+    print("No negative total_amount values found.")
 
 def different_year_and_month(df):
   pass
@@ -44,10 +54,12 @@ for _ in range(15):
 
   taxi_df = pd.read_parquet(url, engine='pyarrow')
 
-  taxi_df = taxi_df[['tpep_pickup_datetime', 'tpep_dropoff_datetime', 'trip_distance', 'RatecodeID', 'PULocationID', 'DOLocationID', 'payment_type', 'total_amount']]
+  # taxi_df = taxi_df[['tpep_pickup_datetime', 'tpep_dropoff_datetime', 'trip_distance', 'RatecodeID', 'PULocationID', 'DOLocationID', 'payment_type', 'total_amount']]
 
   print(f"Data for {random_year}-{random_month}:")
 
-  print(taxi_df.head())
+  # print(taxi_df.head())
 
   drop_na(taxi_df)
+  negative_amount(taxi_df)
+  wrong_ratecode(taxi_df)
