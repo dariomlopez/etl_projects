@@ -1,7 +1,4 @@
-# Añadir alguna columna
-# Modificar alguna columna
 import pandas as pd
-import numpy as np
 
 # import our own modules
 from modules.utils import postgres_connection, calculate_thresholds
@@ -66,10 +63,6 @@ def load_taxi_tripdata():
         (taxi_data_prep['total_amount'] >= lower_amount) & (taxi_data_prep['total_amount'] <= upper_amount) &
         (taxi_data_prep['trip_distance'] >= lower_distance) & (taxi_data_prep['trip_distance'] <= upper_distance)
     ]
-
-    correlation = taxi_df_cleaned[['trip_distance', 'total_amount']].corr().iloc[0, 1]
-    print(f"Correlation between trip distance and total amount: {correlation:.2f}")
-
 
     insert_with_progress(
     connection,
