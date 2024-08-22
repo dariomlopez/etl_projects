@@ -38,8 +38,8 @@ for _ in range(15):
   utils.different_year(taxi_df, random_year)
   utils.different_month(taxi_df, random_month)
 
-  outliers_total = utils.find_outliers(taxi_df, column=[column for column in taxi_df.columns if 'total' in column.lower()])
-  print(f'Outliers in total amount: {len(outliers_total)}')
+  # outliers_total = utils.find_outliers(taxi_df, column=[column for column in taxi_df.columns if 'total' in column.lower()])
+  # print(f'Outliers in total amount: {len(outliers_total)}')
 
-  outliers_trip_distance = utils.find_outliers(taxi_df, column=[column for column in taxi_df.columns if 'trip_distance' in column.lower()])
-  print(f'Outliers in trip_distance: {len(outliers_trip_distance)}')
+  # outliers_trip_distance = utils.find_outliers(taxi_df, column=[column for column in taxi_df.columns if 'trip_distance' in column.lower()])
+  # print(f'Outliers in trip_distance: {len(outliers_trip_distance)}')

@@ -77,14 +77,17 @@ def different_month(df, relevant_month):
       else:
         print("No different month found in drop-off")
 
-def find_outliers(df, column):
-  Q1 = df[column].quantile(0.25)
-  Q3 = df[column].quantile(0.75)
-  IQR = Q3 - Q1
-  
-  lower_bound = Q1 - 1.7 * IQR
-  upper_bound = Q3 + 1.7 * IQR
 
-  outliers = df[(df[column] < lower_bound) | (df[column] > upper_bound)]
+# --- TODO: Improve outliers function ------
+
+# def find_outliers(df, column):
+#   Q1 = df[column].quantile(0.25)
+#   Q3 = df[column].quantile(0.75)
+#   IQR = Q3 - Q1
+  
+#   lower_bound = Q1 - 1.7 * IQR
+#   upper_bound = Q3 + 1.7 * IQR
+
+#   outliers = df[(df[column] < lower_bound) | (df[column] > upper_bound)]
     
-  return outliers
+#   return outliers
