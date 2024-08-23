@@ -6,11 +6,7 @@ import random
 from modules import utils
 from modules.logger import logger
 
-# years = list(range(2020, 2025))  # From 2009 to 2024
-# months = list(range(1, 13))  # From January (1) to December (12)
-
-
-
+#  years previous to 2011 throw errors
 year_ranges = [
     (2011, 2015),
     (2016, 2019),
@@ -19,22 +15,46 @@ year_ranges = [
 
 months = list(range(1, 13))
 
-def select_random_year_month(year_range):
+# handling duplicated year and month
+dup_year, dup_month = set(), set()
+
+def select_random_year(year_range):
     start_year, end_year = year_range
     random_year = random.choice(range(start_year, end_year + 1))
-    
-    # Ajuste de meses para el año 2024, si aplica
-    if random_year == 2024:
-        available_months = [month for month in months if month <= 6]
+
+    return random_year
+
+def select_random_month(year):
+    if year == 2024:
+        available_months = [month for month in range(1, 13) if month <= 6]
     else:
-        available_months = months
+        available_months = range(1, 13)
+
+    available_months = [month for month in available_months if month not in dup_month]
+    if not available_months:
+      return None
     
     random_month = random.choice(available_months)
-    return random_year, random_month
+    dup_month.add(random_month)
 
-def process_data_for_year_range(year_range):
+    return random_month
+
+def select_random_year_month(year_range):
+    """
+    Selecciona un año y un mes aleatorios dentro del rango de años dado.
+    """
+    year = select_random_year(year_range)
+    month = select_random_month(year)
+    
+    return year, month
+
+def process_data(year_range):
     for _ in range(15):
         random_year, random_month = select_random_year_month(year_range)
+
+        if random_month is None:
+            logger.info(f"No available months for year {random_year}")
+            continue
         
         print(f"Random Year: {random_year}")
         print(f"Random Month: {random_month}")
@@ -67,7 +87,7 @@ def process_data_for_year_range(year_range):
 
 # Procesar los datos para cada rango de años
 for year_range in year_ranges:
-    process_data_for_year_range(year_range)
+    process_data(year_range)
 
 
 

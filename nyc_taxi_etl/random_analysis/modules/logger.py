@@ -1,7 +1,7 @@
 import os
 import logging
 
-log_dir = './nyc_taxi_etl/logs'
+log_dir = './nyc_taxi_etl/random_analysis/logs'
 os.makedirs(log_dir, exist_ok=True)
 
 logging.basicConfig(

@@ -11,3 +11,8 @@ The `random_analysis` directory contains scriptsused for exploring and analyzing
 ## Purpose
 
 The purpose of this directory is to facilitate the examination of NYC Yellow Taxi datasets to ensure that similar data quality issues or anomalies are identified and addressed. By analyzing random or additional datasets, we can validate our data processing and analysis methodologies and ensure consistency across different data sources.
+
+## Conclusions
+
+After running the code for some times now, I can fall to the conclusion that **null** data or **Nan** data is present accross different datasets. 
+The rest of issues like wrong datacodes, negative values in total_amount, different years and months and outliers are more present in datasets from 2020/2021

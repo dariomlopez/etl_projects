@@ -1,0 +1,1203 @@
+23-08-2024 01:10:36 - INFO - 
+----- Data for 2012-04 ----------
+
+23-08-2024 01:10:36 - INFO - Size of df: 255128238
+23-08-2024 01:10:36 - INFO - Rows: 13427802
+23-08-2024 01:10:37 - INFO - Found 32593223 NaN
+23-08-2024 01:10:37 - INFO - Droping NaN's
+23-08-2024 01:10:38 - INFO - No negative total_amount values found.
+23-08-2024 01:10:38 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:10:38 - INFO - No different year found in pick-up
+23-08-2024 01:10:38 - INFO - No different year found in drop-off
+23-08-2024 01:10:38 - INFO - No different month found in pick-up column
+23-08-2024 01:10:38 - INFO - No different month found in drop-off
+23-08-2024 01:10:38 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:10:38 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:10:38 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:10:38 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:10:48 - INFO - 
+----- Data for 2014-01 ----------
+
+23-08-2024 01:10:48 - INFO - Size of df: 261867823
+23-08-2024 01:10:48 - INFO - Rows: 13782517
+23-08-2024 01:10:48 - INFO - Found 34570447 NaN
+23-08-2024 01:10:48 - INFO - Droping NaN's
+23-08-2024 01:10:49 - INFO - No negative total_amount values found.
+23-08-2024 01:10:49 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:10:49 - INFO - No different year found in pick-up
+23-08-2024 01:10:49 - INFO - No different year found in drop-off
+23-08-2024 01:10:49 - INFO - No different month found in pick-up column
+23-08-2024 01:10:49 - INFO - No different month found in drop-off
+23-08-2024 01:10:49 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:10:49 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:10:49 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:10:49 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:10:54 - INFO - 
+----- Data for 2012-11 ----------
+
+23-08-2024 01:10:54 - INFO - Size of df: 261744570
+23-08-2024 01:10:54 - INFO - Rows: 13776030
+23-08-2024 01:10:54 - INFO - Found 34340249 NaN
+23-08-2024 01:10:54 - INFO - Droping NaN's
+23-08-2024 01:10:56 - INFO - No negative total_amount values found.
+23-08-2024 01:10:56 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:10:56 - INFO - No different year found in pick-up
+23-08-2024 01:10:56 - INFO - No different year found in drop-off
+23-08-2024 01:10:56 - INFO - No different month found in pick-up column
+23-08-2024 01:10:56 - INFO - No different month found in drop-off
+23-08-2024 01:10:56 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:10:56 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:10:56 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:10:56 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:11:00 - INFO - 
+----- Data for 2015-09 ----------
+
+23-08-2024 01:11:00 - INFO - Size of df: 213144318
+23-08-2024 01:11:00 - INFO - Rows: 11218122
+23-08-2024 01:11:00 - INFO - Found 22436244 NaN
+23-08-2024 01:11:00 - INFO - Droping NaN's
+23-08-2024 01:11:01 - INFO - No negative total_amount values found.
+23-08-2024 01:11:01 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:11:01 - INFO - No different year found in pick-up
+23-08-2024 01:11:01 - INFO - No different year found in drop-off
+23-08-2024 01:11:01 - INFO - No different month found in pick-up column
+23-08-2024 01:11:01 - INFO - No different month found in drop-off
+23-08-2024 01:11:01 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:11:01 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:11:01 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:11:01 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:11:06 - INFO - 
+----- Data for 2015-12 ----------
+
+23-08-2024 01:11:06 - INFO - Size of df: 217606924
+23-08-2024 01:11:06 - INFO - Rows: 11452996
+23-08-2024 01:11:07 - INFO - Found 22905992 NaN
+23-08-2024 01:11:07 - INFO - Droping NaN's
+23-08-2024 01:11:08 - INFO - No negative total_amount values found.
+23-08-2024 01:11:08 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:11:08 - INFO - No different year found in pick-up
+23-08-2024 01:11:08 - INFO - No different year found in drop-off
+23-08-2024 01:11:08 - INFO - No different month found in pick-up column
+23-08-2024 01:11:08 - INFO - No different month found in drop-off
+23-08-2024 01:11:08 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:11:08 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:11:08 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:11:08 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:11:12 - INFO - 
+----- Data for 2011-09 ----------
+
+23-08-2024 01:11:12 - INFO - Size of df: 277908212
+23-08-2024 01:11:12 - INFO - Rows: 14626748
+23-08-2024 01:11:13 - INFO - Found 36498871 NaN
+23-08-2024 01:11:13 - INFO - Droping NaN's
+23-08-2024 01:11:14 - INFO - No negative total_amount values found.
+23-08-2024 01:11:14 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:11:14 - INFO - No different year found in pick-up
+23-08-2024 01:11:14 - INFO - No different year found in drop-off
+23-08-2024 01:11:14 - INFO - No different month found in pick-up column
+23-08-2024 01:11:14 - INFO - No different month found in drop-off
+23-08-2024 01:11:14 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:11:14 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:11:14 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:11:14 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:11:19 - INFO - 
+----- Data for 2013-03 ----------
+
+23-08-2024 01:11:19 - INFO - Size of df: 299235332
+23-08-2024 01:11:19 - INFO - Rows: 15749228
+23-08-2024 01:11:20 - INFO - Found 39317700 NaN
+23-08-2024 01:11:20 - INFO - Droping NaN's
+23-08-2024 01:11:21 - INFO - No negative total_amount values found.
+23-08-2024 01:11:21 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:11:21 - INFO - No different year found in pick-up
+23-08-2024 01:11:21 - INFO - No different year found in drop-off
+23-08-2024 01:11:21 - INFO - No different month found in pick-up column
+23-08-2024 01:11:21 - INFO - No different month found in drop-off
+23-08-2024 01:11:21 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:11:21 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:11:21 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:11:21 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:11:28 - INFO - 
+----- Data for 2014-04 ----------
+
+23-08-2024 01:11:28 - INFO - Size of df: 277756421
+23-08-2024 01:11:28 - INFO - Rows: 14618759
+23-08-2024 01:11:29 - INFO - Found 36636292 NaN
+23-08-2024 01:11:29 - INFO - Droping NaN's
+23-08-2024 01:11:30 - INFO - No negative total_amount values found.
+23-08-2024 01:11:30 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:11:30 - INFO - No different year found in pick-up
+23-08-2024 01:11:30 - INFO - No different year found in drop-off
+23-08-2024 01:11:30 - INFO - No different month found in pick-up column
+23-08-2024 01:11:30 - INFO - No different month found in drop-off
+23-08-2024 01:11:30 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:11:30 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:11:30 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:11:30 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:11:35 - INFO - 
+----- Data for 2014-10 ----------
+
+23-08-2024 01:11:35 - INFO - Size of df: 272037706
+23-08-2024 01:11:35 - INFO - Rows: 14317774
+23-08-2024 01:11:36 - INFO - Found 42953308 NaN
+23-08-2024 01:11:36 - INFO - Droping NaN's
+23-08-2024 01:11:37 - INFO - No negative total_amount values found.
+23-08-2024 01:11:37 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:11:37 - INFO - No different year found in pick-up
+23-08-2024 01:11:37 - INFO - No different year found in drop-off
+23-08-2024 01:11:37 - INFO - No different month found in pick-up column
+23-08-2024 01:11:37 - INFO - No different month found in drop-off
+23-08-2024 01:11:37 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:11:37 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:11:37 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:11:37 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:11:42 - INFO - 
+----- Data for 2012-09 ----------
+
+23-08-2024 01:11:42 - INFO - Size of df: 276390226
+23-08-2024 01:11:42 - INFO - Rows: 14546854
+23-08-2024 01:11:43 - INFO - Found 36298338 NaN
+23-08-2024 01:11:43 - INFO - Droping NaN's
+23-08-2024 01:11:44 - INFO - No negative total_amount values found.
+23-08-2024 01:11:44 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:11:44 - INFO - No different year found in pick-up
+23-08-2024 01:11:44 - INFO - No different year found in drop-off
+23-08-2024 01:11:44 - INFO - No different month found in pick-up column
+23-08-2024 01:11:44 - INFO - No different month found in drop-off
+23-08-2024 01:11:44 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:11:44 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:11:44 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:11:44 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:11:50 - INFO - 
+----- Data for 2014-06 ----------
+
+23-08-2024 01:11:50 - INFO - Size of df: 262448501
+23-08-2024 01:11:50 - INFO - Rows: 13813079
+23-08-2024 01:11:50 - INFO - Found 34655646 NaN
+23-08-2024 01:11:50 - INFO - Droping NaN's
+23-08-2024 01:11:52 - INFO - No negative total_amount values found.
+23-08-2024 01:11:52 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:11:52 - INFO - No different year found in pick-up
+23-08-2024 01:11:52 - INFO - No different year found in drop-off
+23-08-2024 01:11:52 - INFO - No different month found in pick-up column
+23-08-2024 01:11:52 - INFO - No different month found in drop-off
+23-08-2024 01:11:52 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:11:52 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:11:52 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:11:52 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:11:56 - INFO - 
+----- Data for 2014-10 ----------
+
+23-08-2024 01:11:56 - INFO - Size of df: 272037706
+23-08-2024 01:11:56 - INFO - Rows: 14317774
+23-08-2024 01:11:57 - INFO - Found 42953308 NaN
+23-08-2024 01:11:57 - INFO - Droping NaN's
+23-08-2024 01:11:59 - INFO - No negative total_amount values found.
+23-08-2024 01:11:59 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:11:59 - INFO - No different year found in pick-up
+23-08-2024 01:11:59 - INFO - No different year found in drop-off
+23-08-2024 01:11:59 - INFO - No different month found in pick-up column
+23-08-2024 01:11:59 - INFO - No different month found in drop-off
+23-08-2024 01:11:59 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:11:59 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:11:59 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:11:59 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:03 - INFO - 
+----- Data for 2011-07 ----------
+
+23-08-2024 01:12:03 - INFO - Size of df: 280108659
+23-08-2024 01:12:03 - INFO - Rows: 14742561
+23-08-2024 01:12:04 - INFO - Found 36745964 NaN
+23-08-2024 01:12:04 - INFO - Droping NaN's
+23-08-2024 01:12:05 - INFO - No negative total_amount values found.
+23-08-2024 01:12:05 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:12:05 - INFO - No different year found in pick-up
+23-08-2024 01:12:05 - INFO - No different year found in drop-off
+23-08-2024 01:12:05 - INFO - No different month found in pick-up column
+23-08-2024 01:12:05 - INFO - No different month found in drop-off
+23-08-2024 01:12:05 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:05 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:05 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:05 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:10 - INFO - 
+----- Data for 2014-12 ----------
+
+23-08-2024 01:12:10 - INFO - Size of df: 249130223
+23-08-2024 01:12:10 - INFO - Rows: 13112117
+23-08-2024 01:12:11 - INFO - Found 26224374 NaN
+23-08-2024 01:12:11 - INFO - Droping NaN's
+23-08-2024 01:12:12 - INFO - No negative total_amount values found.
+23-08-2024 01:12:12 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:12:12 - INFO - No different year found in pick-up
+23-08-2024 01:12:12 - INFO - No different year found in drop-off
+23-08-2024 01:12:12 - INFO - No different month found in pick-up column
+23-08-2024 01:12:12 - INFO - No different month found in drop-off
+23-08-2024 01:12:12 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:12 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:12 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:12 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:16 - INFO - 
+----- Data for 2014-04 ----------
+
+23-08-2024 01:12:16 - INFO - Size of df: 277756421
+23-08-2024 01:12:16 - INFO - Rows: 14618759
+23-08-2024 01:12:17 - INFO - Found 36636292 NaN
+23-08-2024 01:12:17 - INFO - Droping NaN's
+23-08-2024 01:12:18 - INFO - No negative total_amount values found.
+23-08-2024 01:12:18 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:12:18 - INFO - No different year found in pick-up
+23-08-2024 01:12:18 - INFO - No different year found in drop-off
+23-08-2024 01:12:18 - INFO - No different month found in pick-up column
+23-08-2024 01:12:18 - INFO - No different month found in drop-off
+23-08-2024 01:12:18 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:18 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:18 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:18 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:21 - INFO - 
+----- Data for 2018-06 ----------
+
+23-08-2024 01:12:21 - INFO - Size of df: 165578673
+23-08-2024 01:12:21 - INFO - Rows: 8714667
+23-08-2024 01:12:22 - INFO - Found 17429332 NaN
+23-08-2024 01:12:22 - INFO - Droping NaN's
+23-08-2024 01:12:23 - INFO - No negative total_amount values found.
+23-08-2024 01:12:23 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:12:23 - INFO - No different year found in pick-up
+23-08-2024 01:12:23 - INFO - No different year found in drop-off
+23-08-2024 01:12:23 - INFO - No different month found in pick-up column
+23-08-2024 01:12:23 - INFO - No different month found in drop-off
+23-08-2024 01:12:23 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:23 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:23 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:23 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:26 - INFO - 
+----- Data for 2017-07 ----------
+
+23-08-2024 01:12:26 - INFO - Size of df: 163181234
+23-08-2024 01:12:26 - INFO - Rows: 8588486
+23-08-2024 01:12:27 - INFO - Found 17176972 NaN
+23-08-2024 01:12:27 - INFO - Droping NaN's
+23-08-2024 01:12:27 - INFO - No negative total_amount values found.
+23-08-2024 01:12:27 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:12:27 - INFO - No different year found in pick-up
+23-08-2024 01:12:27 - INFO - No different year found in drop-off
+23-08-2024 01:12:27 - INFO - No different month found in pick-up column
+23-08-2024 01:12:27 - INFO - No different month found in drop-off
+23-08-2024 01:12:27 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:27 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:27 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:27 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:31 - INFO - 
+----- Data for 2017-10 ----------
+
+23-08-2024 01:12:31 - INFO - Size of df: 185604768
+23-08-2024 01:12:31 - INFO - Rows: 9768672
+23-08-2024 01:12:32 - INFO - Found 19537344 NaN
+23-08-2024 01:12:32 - INFO - Droping NaN's
+23-08-2024 01:12:33 - INFO - No negative total_amount values found.
+23-08-2024 01:12:33 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:12:33 - INFO - No different year found in pick-up
+23-08-2024 01:12:33 - INFO - No different year found in drop-off
+23-08-2024 01:12:33 - INFO - No different month found in pick-up column
+23-08-2024 01:12:33 - INFO - No different month found in drop-off
+23-08-2024 01:12:33 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:33 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:33 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:33 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:36 - INFO - 
+----- Data for 2017-07 ----------
+
+23-08-2024 01:12:36 - INFO - Size of df: 163181234
+23-08-2024 01:12:36 - INFO - Rows: 8588486
+23-08-2024 01:12:37 - INFO - Found 17176972 NaN
+23-08-2024 01:12:37 - INFO - Droping NaN's
+23-08-2024 01:12:38 - INFO - No negative total_amount values found.
+23-08-2024 01:12:38 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:12:38 - INFO - No different year found in pick-up
+23-08-2024 01:12:38 - INFO - No different year found in drop-off
+23-08-2024 01:12:38 - INFO - No different month found in pick-up column
+23-08-2024 01:12:38 - INFO - No different month found in drop-off
+23-08-2024 01:12:38 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:38 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:38 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:38 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:42 - INFO - 
+----- Data for 2016-12 ----------
+
+23-08-2024 01:12:42 - INFO - Size of df: 198487243
+23-08-2024 01:12:42 - INFO - Rows: 10446697
+23-08-2024 01:12:42 - INFO - Found 20893394 NaN
+23-08-2024 01:12:42 - INFO - Droping NaN's
+23-08-2024 01:12:43 - INFO - No negative total_amount values found.
+23-08-2024 01:12:43 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:12:43 - INFO - No different year found in pick-up
+23-08-2024 01:12:43 - INFO - No different year found in drop-off
+23-08-2024 01:12:43 - INFO - No different month found in pick-up column
+23-08-2024 01:12:43 - INFO - No different month found in drop-off
+23-08-2024 01:12:43 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:43 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:43 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:43 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:48 - INFO - 
+----- Data for 2019-07 ----------
+
+23-08-2024 01:12:48 - INFO - Size of df: 119897961
+23-08-2024 01:12:48 - INFO - Rows: 6310419
+23-08-2024 01:12:48 - INFO - Found 6446255 NaN
+23-08-2024 01:12:48 - INFO - Droping NaN's
+23-08-2024 01:12:48 - INFO - No negative total_amount values found.
+23-08-2024 01:12:48 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:12:48 - INFO - No different year found in pick-up
+23-08-2024 01:12:48 - INFO - No different year found in drop-off
+23-08-2024 01:12:48 - INFO - No different month found in pick-up column
+23-08-2024 01:12:48 - INFO - No different month found in drop-off
+23-08-2024 01:12:48 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:49 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:49 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:49 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:52 - INFO - 
+----- Data for 2016-01 ----------
+
+23-08-2024 01:12:52 - INFO - Size of df: 207196273
+23-08-2024 01:12:52 - INFO - Rows: 10905067
+23-08-2024 01:12:53 - INFO - Found 21810134 NaN
+23-08-2024 01:12:53 - INFO - Droping NaN's
+23-08-2024 01:12:54 - INFO - No negative total_amount values found.
+23-08-2024 01:12:54 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:12:54 - INFO - No different year found in pick-up
+23-08-2024 01:12:54 - INFO - No different year found in drop-off
+23-08-2024 01:12:54 - INFO - No different month found in pick-up column
+23-08-2024 01:12:54 - INFO - No different month found in drop-off
+23-08-2024 01:12:54 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:54 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:54 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:54 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:58 - INFO - 
+----- Data for 2017-02 ----------
+
+23-08-2024 01:12:58 - INFO - Size of df: 174225725
+23-08-2024 01:12:58 - INFO - Rows: 9169775
+23-08-2024 01:12:58 - INFO - Found 18339550 NaN
+23-08-2024 01:12:58 - INFO - Droping NaN's
+23-08-2024 01:12:59 - INFO - No negative total_amount values found.
+23-08-2024 01:12:59 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:12:59 - INFO - No different year found in pick-up
+23-08-2024 01:12:59 - INFO - No different year found in drop-off
+23-08-2024 01:12:59 - INFO - No different month found in pick-up column
+23-08-2024 01:12:59 - INFO - No different month found in drop-off
+23-08-2024 01:12:59 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:59 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:12:59 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:12:59 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:13:02 - INFO - 
+----- Data for 2017-09 ----------
+
+23-08-2024 01:13:02 - INFO - Size of df: 169962999
+23-08-2024 01:13:02 - INFO - Rows: 8945421
+23-08-2024 01:13:03 - INFO - Found 17890842 NaN
+23-08-2024 01:13:03 - INFO - Droping NaN's
+23-08-2024 01:13:04 - INFO - No negative total_amount values found.
+23-08-2024 01:13:04 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:13:04 - INFO - No different year found in pick-up
+23-08-2024 01:13:04 - INFO - No different year found in drop-off
+23-08-2024 01:13:04 - INFO - No different month found in pick-up column
+23-08-2024 01:13:04 - INFO - No different month found in drop-off
+23-08-2024 01:13:04 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:13:04 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:13:04 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:13:04 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:13:09 - INFO - 
+----- Data for 2016-10 ----------
+
+23-08-2024 01:13:09 - INFO - Size of df: 206237894
+23-08-2024 01:13:09 - INFO - Rows: 10854626
+23-08-2024 01:13:09 - INFO - Found 21709252 NaN
+23-08-2024 01:13:09 - INFO - Droping NaN's
+23-08-2024 01:13:10 - INFO - No negative total_amount values found.
+23-08-2024 01:13:10 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:13:10 - INFO - No different year found in pick-up
+23-08-2024 01:13:10 - INFO - No different year found in drop-off
+23-08-2024 01:13:10 - INFO - No different month found in pick-up column
+23-08-2024 01:13:10 - INFO - No different month found in drop-off
+23-08-2024 01:13:10 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:13:10 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:13:10 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:13:10 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:13:14 - INFO - 
+----- Data for 2017-05 ----------
+
+23-08-2024 01:13:14 - INFO - Size of df: 191940413
+23-08-2024 01:13:14 - INFO - Rows: 10102127
+23-08-2024 01:13:15 - INFO - Found 20204254 NaN
+23-08-2024 01:13:15 - INFO - Droping NaN's
+23-08-2024 01:13:16 - INFO - No negative total_amount values found.
+23-08-2024 01:13:16 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:13:16 - INFO - No different year found in pick-up
+23-08-2024 01:13:16 - INFO - No different year found in drop-off
+23-08-2024 01:13:16 - INFO - No different month found in pick-up column
+23-08-2024 01:13:16 - INFO - No different month found in drop-off
+23-08-2024 01:13:16 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:13:16 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:13:16 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:13:16 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:13:19 - INFO - 
+----- Data for 2017-07 ----------
+
+23-08-2024 01:13:19 - INFO - Size of df: 163181234
+23-08-2024 01:13:19 - INFO - Rows: 8588486
+23-08-2024 01:13:19 - INFO - Found 17176972 NaN
+23-08-2024 01:13:19 - INFO - Droping NaN's
+23-08-2024 01:13:20 - INFO - No negative total_amount values found.
+23-08-2024 01:13:20 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:13:20 - INFO - No different year found in pick-up
+23-08-2024 01:13:20 - INFO - No different year found in drop-off
+23-08-2024 01:13:20 - INFO - No different month found in pick-up column
+23-08-2024 01:13:20 - INFO - No different month found in drop-off
+23-08-2024 01:13:20 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:13:20 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:13:20 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:13:20 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:13:23 - INFO - 
+----- Data for 2017-11 ----------
+
+23-08-2024 01:13:23 - INFO - Size of df: 176411257
+23-08-2024 01:13:23 - INFO - Rows: 9284803
+23-08-2024 01:13:24 - INFO - Found 18569606 NaN
+23-08-2024 01:13:24 - INFO - Droping NaN's
+23-08-2024 01:13:25 - INFO - No negative total_amount values found.
+23-08-2024 01:13:25 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:13:25 - INFO - No different year found in pick-up
+23-08-2024 01:13:25 - INFO - No different year found in drop-off
+23-08-2024 01:13:25 - INFO - No different month found in pick-up column
+23-08-2024 01:13:25 - INFO - No different month found in drop-off
+23-08-2024 01:13:25 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:13:25 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:13:25 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:13:25 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:13:29 - INFO - 
+----- Data for 2017-04 ----------
+
+23-08-2024 01:13:29 - INFO - Size of df: 190895565
+23-08-2024 01:13:29 - INFO - Rows: 10047135
+23-08-2024 01:13:30 - INFO - Found 20094270 NaN
+23-08-2024 01:13:30 - INFO - Droping NaN's
+23-08-2024 01:13:31 - INFO - No negative total_amount values found.
+23-08-2024 01:13:31 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:13:31 - INFO - No different year found in pick-up
+23-08-2024 01:13:31 - INFO - No different year found in drop-off
+23-08-2024 01:13:31 - INFO - No different month found in pick-up column
+23-08-2024 01:13:31 - INFO - No different month found in drop-off
+23-08-2024 01:13:31 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:13:31 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:13:31 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:13:31 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:13:35 - INFO - 
+----- Data for 2016-06 ----------
+
+23-08-2024 01:13:35 - INFO - Size of df: 211501255
+23-08-2024 01:13:35 - INFO - Rows: 11131645
+23-08-2024 01:13:35 - INFO - Found 22263290 NaN
+23-08-2024 01:13:35 - INFO - Droping NaN's
+23-08-2024 01:13:36 - INFO - No negative total_amount values found.
+23-08-2024 01:13:36 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:13:36 - INFO - No different year found in pick-up
+23-08-2024 01:13:36 - INFO - No different year found in drop-off
+23-08-2024 01:13:36 - INFO - No different month found in pick-up column
+23-08-2024 01:13:36 - INFO - No different month found in drop-off
+23-08-2024 01:13:36 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:13:36 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:13:36 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:13:36 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:13:37 - INFO - Error loading data for 2025-05: HTTP Error 403: Forbidden
+23-08-2024 01:13:38 - INFO - 
+----- Data for 2022-10 ----------
+
+23-08-2024 01:13:38 - INFO - Size of df: 69832809
+23-08-2024 01:13:38 - INFO - Rows: 3675411
+23-08-2024 01:13:38 - INFO - Found 665105 NaN
+23-08-2024 01:13:38 - INFO - Droping NaN's
+23-08-2024 01:13:39 - INFO - Found 26240 rows with negative total_amount values.
+23-08-2024 01:13:39 - INFO - Found 11904 rows with wrong ratecodeID
+23-08-2024 01:13:39 - INFO - In Pick-Up column: Found 4 rows with different year.
+23-08-2024 01:13:39 - INFO - In drop-off column: Found 4 rows with different year.
+23-08-2024 01:13:40 - INFO - In column pick-up: Found 91 rows with different month
+23-08-2024 01:13:40 - INFO - In column drop-off: Found 834 rows with different month
+23-08-2024 01:13:40 - INFO - Outliers en trip_distance: 453848 filas encontradas.
+23-08-2024 01:13:40 - INFO - Outliers en total_amount: 434180 filas encontradas.
+23-08-2024 01:13:40 - INFO - Outliers en trip_distance: 453848 filas encontradas.
+23-08-2024 01:13:40 - INFO - Outliers en total_amount: 434180 filas encontradas.
+23-08-2024 01:13:42 - INFO - 
+----- Data for 2024-06 ----------
+
+23-08-2024 01:13:42 - INFO - Size of df: 67244667
+23-08-2024 01:13:42 - INFO - Rows: 3539193
+23-08-2024 01:13:42 - INFO - Found 2053905 NaN
+23-08-2024 01:13:42 - INFO - Droping NaN's
+23-08-2024 01:13:43 - INFO - Found 48568 rows with negative total_amount values.
+23-08-2024 01:13:43 - INFO - Found 36869 rows with wrong ratecodeID
+23-08-2024 01:13:43 - INFO - In Pick-Up column: Found 6 rows with different year.
+23-08-2024 01:13:43 - INFO - In drop-off column: Found 6 rows with different year.
+23-08-2024 01:13:43 - INFO - In column pick-up: Found 49 rows with different month
+23-08-2024 01:13:43 - INFO - In column drop-off: Found 706 rows with different month
+23-08-2024 01:13:43 - INFO - Outliers en trip_distance: 420519 filas encontradas.
+23-08-2024 01:13:44 - INFO - Outliers en total_amount: 412018 filas encontradas.
+23-08-2024 01:13:44 - INFO - Outliers en trip_distance: 420519 filas encontradas.
+23-08-2024 01:13:44 - INFO - Outliers en total_amount: 412018 filas encontradas.
+23-08-2024 01:13:44 - INFO - Error loading data for 2025-04: HTTP Error 403: Forbidden
+23-08-2024 01:13:46 - INFO - 
+----- Data for 2023-09 ----------
+
+23-08-2024 01:13:46 - INFO - Size of df: 54087718
+23-08-2024 01:13:46 - INFO - Rows: 2846722
+23-08-2024 01:13:46 - INFO - Found 701125 NaN
+23-08-2024 01:13:46 - INFO - Droping NaN's
+23-08-2024 01:13:47 - INFO - Found 29250 rows with negative total_amount values.
+23-08-2024 01:13:47 - INFO - Found 17012 rows with wrong ratecodeID
+23-08-2024 01:13:47 - INFO - In Pick-Up column: Found 6 rows with different year.
+23-08-2024 01:13:47 - INFO - In drop-off column: Found 6 rows with different year.
+23-08-2024 01:13:47 - INFO - In column pick-up: Found 32 rows with different month
+23-08-2024 01:13:48 - INFO - In column drop-off: Found 1657 rows with different month
+23-08-2024 01:13:48 - INFO - Outliers en trip_distance: 370228 filas encontradas.
+23-08-2024 01:13:48 - INFO - Outliers en total_amount: 346444 filas encontradas.
+23-08-2024 01:13:48 - INFO - Outliers en trip_distance: 370228 filas encontradas.
+23-08-2024 01:13:48 - INFO - Outliers en total_amount: 346444 filas encontradas.
+23-08-2024 01:13:50 - INFO - 
+----- Data for 2023-06 ----------
+
+23-08-2024 01:13:50 - INFO - Size of df: 62837446
+23-08-2024 01:13:50 - INFO - Rows: 3307234
+23-08-2024 01:13:50 - INFO - Found 499435 NaN
+23-08-2024 01:13:50 - INFO - Droping NaN's
+23-08-2024 01:13:51 - INFO - Found 31015 rows with negative total_amount values.
+23-08-2024 01:13:51 - INFO - Found 15316 rows with wrong ratecodeID
+23-08-2024 01:13:51 - INFO - In Pick-Up column: Found 6 rows with different year.
+23-08-2024 01:13:51 - INFO - In drop-off column: Found 6 rows with different year.
+23-08-2024 01:13:51 - INFO - In column pick-up: Found 41 rows with different month
+23-08-2024 01:13:51 - INFO - In column drop-off: Found 1220 rows with different month
+23-08-2024 01:13:51 - INFO - Outliers en trip_distance: 434254 filas encontradas.
+23-08-2024 01:13:52 - INFO - Outliers en total_amount: 417143 filas encontradas.
+23-08-2024 01:13:52 - INFO - Outliers en trip_distance: 434254 filas encontradas.
+23-08-2024 01:13:52 - INFO - Outliers en total_amount: 417143 filas encontradas.
+23-08-2024 01:13:55 - INFO - 
+----- Data for 2021-09 ----------
+
+23-08-2024 01:13:55 - INFO - Size of df: 56312067
+23-08-2024 01:13:55 - INFO - Rows: 2963793
+23-08-2024 01:13:55 - INFO - Found 714270 NaN
+23-08-2024 01:13:55 - INFO - Droping NaN's
+23-08-2024 01:13:55 - INFO - Found 12335 rows with negative total_amount values.
+23-08-2024 01:13:55 - INFO - Found 1769 rows with wrong ratecodeID
+23-08-2024 01:13:56 - INFO - In Pick-Up column: Found 30 rows with different year.
+23-08-2024 01:13:56 - INFO - In drop-off column: Found 30 rows with different year.
+23-08-2024 01:13:56 - INFO - In column pick-up: Found 104 rows with different month
+23-08-2024 01:13:56 - INFO - In column drop-off: Found 1145 rows with different month
+23-08-2024 01:13:56 - INFO - Outliers en trip_distance: 316052 filas encontradas.
+23-08-2024 01:13:56 - INFO - Outliers en total_amount: 294549 filas encontradas.
+23-08-2024 01:13:56 - INFO - Outliers en trip_distance: 316052 filas encontradas.
+23-08-2024 01:13:57 - INFO - Outliers en total_amount: 294549 filas encontradas.
+23-08-2024 01:13:58 - INFO - 
+----- Data for 2022-08 ----------
+
+23-08-2024 01:13:58 - INFO - Size of df: 59900863
+23-08-2024 01:13:58 - INFO - Rows: 3152677
+23-08-2024 01:13:58 - INFO - Found 465870 NaN
+23-08-2024 01:13:58 - INFO - Droping NaN's
+23-08-2024 01:13:59 - INFO - Found 22563 rows with negative total_amount values.
+23-08-2024 01:13:59 - INFO - Found 11953 rows with wrong ratecodeID
+23-08-2024 01:13:59 - INFO - In Pick-Up column: Found 8 rows with different year.
+23-08-2024 01:13:59 - INFO - In drop-off column: Found 8 rows with different year.
+23-08-2024 01:13:59 - INFO - In column pick-up: Found 53 rows with different month
+23-08-2024 01:13:59 - INFO - In column drop-off: Found 977 rows with different month
+23-08-2024 01:13:59 - INFO - Outliers en trip_distance: 392199 filas encontradas.
+23-08-2024 01:13:59 - INFO - Outliers en total_amount: 380854 filas encontradas.
+23-08-2024 01:14:00 - INFO - Outliers en trip_distance: 392199 filas encontradas.
+23-08-2024 01:14:00 - INFO - Outliers en total_amount: 380854 filas encontradas.
+23-08-2024 01:14:01 - INFO - 
+----- Data for 2024-03 ----------
+
+23-08-2024 01:14:01 - INFO - Size of df: 68069932
+23-08-2024 01:14:01 - INFO - Rows: 3582628
+23-08-2024 01:14:02 - INFO - Found 2130950 NaN
+23-08-2024 01:14:02 - INFO - Droping NaN's
+23-08-2024 01:14:02 - INFO - Found 44304 rows with negative total_amount values.
+23-08-2024 01:14:02 - INFO - Found 37930 rows with wrong ratecodeID
+23-08-2024 01:14:02 - INFO - In Pick-Up column: Found 2 rows with different year.
+23-08-2024 01:14:02 - INFO - In drop-off column: Found 2 rows with different year.
+23-08-2024 01:14:03 - INFO - In column pick-up: Found 23 rows with different month
+23-08-2024 01:14:03 - INFO - In column drop-off: Found 615 rows with different month
+23-08-2024 01:14:03 - INFO - Outliers en trip_distance: 419226 filas encontradas.
+23-08-2024 01:14:03 - INFO - Outliers en total_amount: 404208 filas encontradas.
+23-08-2024 01:14:03 - INFO - Outliers en trip_distance: 419226 filas encontradas.
+23-08-2024 01:14:03 - INFO - Outliers en total_amount: 404208 filas encontradas.
+23-08-2024 01:14:04 - INFO - 
+----- Data for 2021-04 ----------
+
+23-08-2024 01:14:04 - INFO - Size of df: 41252553
+23-08-2024 01:14:04 - INFO - Rows: 2171187
+23-08-2024 01:14:04 - INFO - Found 640176 NaN
+23-08-2024 01:14:04 - INFO - Droping NaN's
+23-08-2024 01:14:05 - INFO - Found 9735 rows with negative total_amount values.
+23-08-2024 01:14:05 - INFO - Found 74 rows with wrong ratecodeID
+23-08-2024 01:14:05 - INFO - In Pick-Up column: Found 5 rows with different year.
+23-08-2024 01:14:05 - INFO - In drop-off column: Found 5 rows with different year.
+23-08-2024 01:14:05 - INFO - In column pick-up: Found 42 rows with different month
+23-08-2024 01:14:05 - INFO - In column drop-off: Found 766 rows with different month
+23-08-2024 01:14:05 - INFO - Outliers en trip_distance: 191186 filas encontradas.
+23-08-2024 01:14:05 - INFO - Outliers en total_amount: 179714 filas encontradas.
+23-08-2024 01:14:06 - INFO - Outliers en trip_distance: 191186 filas encontradas.
+23-08-2024 01:14:06 - INFO - Outliers en total_amount: 179714 filas encontradas.
+23-08-2024 01:14:08 - INFO - 
+----- Data for 2024-03 ----------
+
+23-08-2024 01:14:08 - INFO - Size of df: 68069932
+23-08-2024 01:14:08 - INFO - Rows: 3582628
+23-08-2024 01:14:08 - INFO - Found 2130950 NaN
+23-08-2024 01:14:08 - INFO - Droping NaN's
+23-08-2024 01:14:08 - INFO - Found 44304 rows with negative total_amount values.
+23-08-2024 01:14:08 - INFO - Found 37930 rows with wrong ratecodeID
+23-08-2024 01:14:09 - INFO - In Pick-Up column: Found 2 rows with different year.
+23-08-2024 01:14:09 - INFO - In drop-off column: Found 2 rows with different year.
+23-08-2024 01:14:09 - INFO - In column pick-up: Found 23 rows with different month
+23-08-2024 01:14:09 - INFO - In column drop-off: Found 615 rows with different month
+23-08-2024 01:14:09 - INFO - Outliers en trip_distance: 419226 filas encontradas.
+23-08-2024 01:14:09 - INFO - Outliers en total_amount: 404208 filas encontradas.
+23-08-2024 01:14:10 - INFO - Outliers en trip_distance: 419226 filas encontradas.
+23-08-2024 01:14:10 - INFO - Outliers en total_amount: 404208 filas encontradas.
+23-08-2024 01:14:11 - INFO - 
+----- Data for 2022-06 ----------
+
+23-08-2024 01:14:11 - INFO - Size of df: 67604356
+23-08-2024 01:14:11 - INFO - Rows: 3558124
+23-08-2024 01:14:11 - INFO - Found 662240 NaN
+23-08-2024 01:14:11 - INFO - Droping NaN's
+23-08-2024 01:14:12 - INFO - Found 22678 rows with negative total_amount values.
+23-08-2024 01:14:12 - INFO - Found 11588 rows with wrong ratecodeID
+23-08-2024 01:14:12 - INFO - In Pick-Up column: Found 447 rows with different year.
+23-08-2024 01:14:13 - INFO - In drop-off column: Found 308 rows with different year.
+23-08-2024 01:14:13 - INFO - In column pick-up: Found 512 rows with different month
+23-08-2024 01:14:13 - INFO - In column drop-off: Found 1448 rows with different month
+23-08-2024 01:14:13 - INFO - Outliers en trip_distance: 430027 filas encontradas.
+23-08-2024 01:14:13 - INFO - Outliers en total_amount: 416286 filas encontradas.
+23-08-2024 01:14:14 - INFO - Outliers en trip_distance: 430027 filas encontradas.
+23-08-2024 01:14:14 - INFO - Outliers en total_amount: 416286 filas encontradas.
+23-08-2024 01:14:15 - INFO - 
+----- Data for 2021-12 ----------
+
+23-08-2024 01:14:15 - INFO - Size of df: 61073011
+23-08-2024 01:14:15 - INFO - Rows: 3214369
+23-08-2024 01:14:15 - INFO - Found 511855 NaN
+23-08-2024 01:14:15 - INFO - Droping NaN's
+23-08-2024 01:14:16 - INFO - Found 16182 rows with negative total_amount values.
+23-08-2024 01:14:16 - INFO - Found 3412 rows with wrong ratecodeID
+23-08-2024 01:14:16 - INFO - In Pick-Up column: Found 54 rows with different year.
+23-08-2024 01:14:16 - INFO - In drop-off column: Found 533 rows with different year.
+23-08-2024 01:14:16 - INFO - In column pick-up: Found 97 rows with different month
+23-08-2024 01:14:16 - INFO - In column drop-off: Found 537 rows with different month
+23-08-2024 01:14:16 - INFO - Outliers en trip_distance: 384590 filas encontradas.
+23-08-2024 01:14:17 - INFO - Outliers en total_amount: 347227 filas encontradas.
+23-08-2024 01:14:17 - INFO - Outliers en trip_distance: 384590 filas encontradas.
+23-08-2024 01:14:17 - INFO - Outliers en total_amount: 347227 filas encontradas.
+23-08-2024 01:14:18 - INFO - 
+----- Data for 2022-06 ----------
+
+23-08-2024 01:14:18 - INFO - Size of df: 67604356
+23-08-2024 01:14:18 - INFO - Rows: 3558124
+23-08-2024 01:14:19 - INFO - Found 662240 NaN
+23-08-2024 01:14:19 - INFO - Droping NaN's
+23-08-2024 01:14:19 - INFO - Found 22678 rows with negative total_amount values.
+23-08-2024 01:14:19 - INFO - Found 11588 rows with wrong ratecodeID
+23-08-2024 01:14:19 - INFO - In Pick-Up column: Found 447 rows with different year.
+23-08-2024 01:14:19 - INFO - In drop-off column: Found 308 rows with different year.
+23-08-2024 01:14:20 - INFO - In column pick-up: Found 512 rows with different month
+23-08-2024 01:14:20 - INFO - In column drop-off: Found 1448 rows with different month
+23-08-2024 01:14:20 - INFO - Outliers en trip_distance: 430027 filas encontradas.
+23-08-2024 01:14:20 - INFO - Outliers en total_amount: 416286 filas encontradas.
+23-08-2024 01:14:20 - INFO - Outliers en trip_distance: 430027 filas encontradas.
+23-08-2024 01:14:21 - INFO - Outliers en total_amount: 416286 filas encontradas.
+23-08-2024 01:14:22 - INFO - 
+----- Data for 2021-08 ----------
+
+23-08-2024 01:14:22 - INFO - Size of df: 52986383
+23-08-2024 01:14:22 - INFO - Rows: 2788757
+23-08-2024 01:14:22 - INFO - Found 677971 NaN
+23-08-2024 01:14:22 - INFO - Droping NaN's
+23-08-2024 01:14:22 - INFO - Found 12872 rows with negative total_amount values.
+23-08-2024 01:14:22 - INFO - Found 192 rows with wrong ratecodeID
+23-08-2024 01:14:22 - INFO - In Pick-Up column: Found 49 rows with different year.
+23-08-2024 01:14:22 - INFO - In drop-off column: Found 49 rows with different year.
+23-08-2024 01:14:23 - INFO - In column pick-up: Found 525 rows with different month
+23-08-2024 01:14:23 - INFO - In column drop-off: Found 1077 rows with different month
+23-08-2024 01:14:23 - INFO - Outliers en trip_distance: 303401 filas encontradas.
+23-08-2024 01:14:23 - INFO - Outliers en total_amount: 290188 filas encontradas.
+23-08-2024 01:14:23 - INFO - Outliers en trip_distance: 303401 filas encontradas.
+23-08-2024 01:14:23 - INFO - Outliers en total_amount: 290188 filas encontradas.
+23-08-2024 01:39:03 - INFO - 
+----- Data for 2013-02 ----------
+
+23-08-2024 01:39:03 - INFO - Size of df: 265813344
+23-08-2024 01:39:03 - INFO - Rows: 13990176
+23-08-2024 01:39:03 - INFO - Found 34932903 NaN
+23-08-2024 01:39:03 - INFO - Droping NaN's
+23-08-2024 01:39:05 - INFO - No negative total_amount values found.
+23-08-2024 01:39:05 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:39:05 - INFO - No different year found in pick-up
+23-08-2024 01:39:05 - INFO - No different year found in drop-off
+23-08-2024 01:39:05 - INFO - No different month found in pick-up column
+23-08-2024 01:39:05 - INFO - No different month found in drop-off
+23-08-2024 01:39:05 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:39:05 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:39:05 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:39:05 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:39:09 - INFO - 
+----- Data for 2013-03 ----------
+
+23-08-2024 01:39:09 - INFO - Size of df: 299235332
+23-08-2024 01:39:09 - INFO - Rows: 15749228
+23-08-2024 01:39:10 - INFO - Found 39317700 NaN
+23-08-2024 01:39:10 - INFO - Droping NaN's
+23-08-2024 01:39:11 - INFO - No negative total_amount values found.
+23-08-2024 01:39:11 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:39:11 - INFO - No different year found in pick-up
+23-08-2024 01:39:11 - INFO - No different year found in drop-off
+23-08-2024 01:39:11 - INFO - No different month found in pick-up column
+23-08-2024 01:39:11 - INFO - No different month found in drop-off
+23-08-2024 01:39:11 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:39:11 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:39:11 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:39:11 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:39:18 - INFO - 
+----- Data for 2013-08 ----------
+
+23-08-2024 01:39:18 - INFO - Size of df: 221948975
+23-08-2024 01:39:18 - INFO - Rows: 11681525
+23-08-2024 01:39:19 - INFO - Found 28543951 NaN
+23-08-2024 01:39:19 - INFO - Droping NaN's
+23-08-2024 01:39:20 - INFO - No negative total_amount values found.
+23-08-2024 01:39:20 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:39:20 - INFO - No different year found in pick-up
+23-08-2024 01:39:20 - INFO - No different year found in drop-off
+23-08-2024 01:39:20 - INFO - No different month found in pick-up column
+23-08-2024 01:39:20 - INFO - No different month found in drop-off
+23-08-2024 01:39:20 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:39:20 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:39:20 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:39:20 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:39:25 - INFO - 
+----- Data for 2011-11 ----------
+
+23-08-2024 01:39:25 - INFO - Size of df: 275991397
+23-08-2024 01:39:25 - INFO - Rows: 14525863
+23-08-2024 01:39:26 - INFO - Found 36235289 NaN
+23-08-2024 01:39:26 - INFO - Droping NaN's
+23-08-2024 01:39:28 - INFO - No negative total_amount values found.
+23-08-2024 01:39:28 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:39:28 - INFO - No different year found in pick-up
+23-08-2024 01:39:28 - INFO - No different year found in drop-off
+23-08-2024 01:39:28 - INFO - No different month found in pick-up column
+23-08-2024 01:39:28 - INFO - No different month found in drop-off
+23-08-2024 01:39:28 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:39:28 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:39:28 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:39:28 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:39:32 - INFO - 
+----- Data for 2014-07 ----------
+
+23-08-2024 01:39:32 - INFO - Size of df: 248981187
+23-08-2024 01:39:32 - INFO - Rows: 13104273
+23-08-2024 01:39:32 - INFO - Found 32938301 NaN
+23-08-2024 01:39:32 - INFO - Droping NaN's
+23-08-2024 01:39:33 - INFO - No negative total_amount values found.
+23-08-2024 01:39:33 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:39:33 - INFO - No different year found in pick-up
+23-08-2024 01:39:33 - INFO - No different year found in drop-off
+23-08-2024 01:39:33 - INFO - No different month found in pick-up column
+23-08-2024 01:39:33 - INFO - No different month found in drop-off
+23-08-2024 01:39:33 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:39:33 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:39:33 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:39:33 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:39:38 - INFO - 
+----- Data for 2013-01 ----------
+
+23-08-2024 01:39:38 - INFO - Size of df: 280755723
+23-08-2024 01:39:38 - INFO - Rows: 14776617
+23-08-2024 01:39:39 - INFO - Found 36879441 NaN
+23-08-2024 01:39:39 - INFO - Droping NaN's
+23-08-2024 01:39:40 - INFO - No negative total_amount values found.
+23-08-2024 01:39:40 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:39:40 - INFO - No different year found in pick-up
+23-08-2024 01:39:40 - INFO - No different year found in drop-off
+23-08-2024 01:39:40 - INFO - No different month found in pick-up column
+23-08-2024 01:39:40 - INFO - No different month found in drop-off
+23-08-2024 01:39:40 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:39:40 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:39:40 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:39:40 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:39:46 - INFO - 
+----- Data for 2013-12 ----------
+
+23-08-2024 01:39:46 - INFO - Size of df: 265451242
+23-08-2024 01:39:46 - INFO - Rows: 13971118
+23-08-2024 01:39:47 - INFO - Found 35001148 NaN
+23-08-2024 01:39:47 - INFO - Droping NaN's
+23-08-2024 01:39:48 - INFO - No negative total_amount values found.
+23-08-2024 01:39:48 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:39:48 - INFO - No different year found in pick-up
+23-08-2024 01:39:48 - INFO - No different year found in drop-off
+23-08-2024 01:39:48 - INFO - No different month found in pick-up column
+23-08-2024 01:39:48 - INFO - No different month found in drop-off
+23-08-2024 01:39:48 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:39:48 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:39:48 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:39:48 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:39:52 - INFO - 
+----- Data for 2014-09 ----------
+
+23-08-2024 01:39:52 - INFO - Size of df: 255062650
+23-08-2024 01:39:52 - INFO - Rows: 13424350
+23-08-2024 01:39:53 - INFO - Found 40273046 NaN
+23-08-2024 01:39:53 - INFO - Droping NaN's
+23-08-2024 01:39:54 - INFO - No negative total_amount values found.
+23-08-2024 01:39:54 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:39:54 - INFO - No different year found in pick-up
+23-08-2024 01:39:54 - INFO - No different year found in drop-off
+23-08-2024 01:39:54 - INFO - No different month found in pick-up column
+23-08-2024 01:39:54 - INFO - No different month found in drop-off
+23-08-2024 01:39:54 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:39:54 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:39:54 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:39:54 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:39:58 - INFO - 
+----- Data for 2012-10 ----------
+
+23-08-2024 01:39:58 - INFO - Size of df: 275923985
+23-08-2024 01:39:58 - INFO - Rows: 14522315
+23-08-2024 01:39:59 - INFO - Found 36193076 NaN
+23-08-2024 01:39:59 - INFO - Droping NaN's
+23-08-2024 01:40:00 - INFO - No negative total_amount values found.
+23-08-2024 01:40:00 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:40:00 - INFO - No different year found in pick-up
+23-08-2024 01:40:00 - INFO - No different year found in drop-off
+23-08-2024 01:40:00 - INFO - No different month found in pick-up column
+23-08-2024 01:40:00 - INFO - No different month found in drop-off
+23-08-2024 01:40:00 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:40:00 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:40:00 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:40:00 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:40:05 - INFO - 
+----- Data for 2014-05 ----------
+
+23-08-2024 01:40:05 - INFO - Size of df: 280706912
+23-08-2024 01:40:05 - INFO - Rows: 14774048
+23-08-2024 01:40:06 - INFO - Found 37032613 NaN
+23-08-2024 01:40:06 - INFO - Droping NaN's
+23-08-2024 01:40:07 - INFO - No negative total_amount values found.
+23-08-2024 01:40:07 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:40:07 - INFO - No different year found in pick-up
+23-08-2024 01:40:07 - INFO - No different year found in drop-off
+23-08-2024 01:40:07 - INFO - No different month found in pick-up column
+23-08-2024 01:40:07 - INFO - No different month found in drop-off
+23-08-2024 01:40:07 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:40:07 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:40:07 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:40:07 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:40:11 - INFO - 
+----- Data for 2011-06 ----------
+
+23-08-2024 01:40:11 - INFO - Size of df: 286859359
+23-08-2024 01:40:11 - INFO - Rows: 15097861
+23-08-2024 01:40:12 - INFO - Found 37637501 NaN
+23-08-2024 01:40:12 - INFO - Droping NaN's
+23-08-2024 01:40:14 - INFO - No negative total_amount values found.
+23-08-2024 01:40:14 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:40:14 - INFO - No different year found in pick-up
+23-08-2024 01:40:14 - INFO - No different year found in drop-off
+23-08-2024 01:40:14 - INFO - No different month found in pick-up column
+23-08-2024 01:40:14 - INFO - No different month found in drop-off
+23-08-2024 01:40:14 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:40:14 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:40:14 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:40:14 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:40:18 - INFO - 
+----- Data for 2012-04 ----------
+
+23-08-2024 01:40:18 - INFO - Size of df: 255128238
+23-08-2024 01:40:18 - INFO - Rows: 13427802
+23-08-2024 01:40:19 - INFO - Found 32593223 NaN
+23-08-2024 01:40:19 - INFO - Droping NaN's
+23-08-2024 01:40:20 - INFO - No negative total_amount values found.
+23-08-2024 01:40:20 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:40:20 - INFO - No different year found in pick-up
+23-08-2024 01:40:20 - INFO - No different year found in drop-off
+23-08-2024 01:40:20 - INFO - No different month found in pick-up column
+23-08-2024 01:40:20 - INFO - No different month found in drop-off
+23-08-2024 01:40:20 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:40:20 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:40:20 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:40:20 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:42:20 - INFO - 
+----- Data for 2015-10 ----------
+
+23-08-2024 01:42:20 - INFO - Size of df: 233839327
+23-08-2024 01:42:20 - INFO - Rows: 12307333
+23-08-2024 01:42:21 - INFO - Found 24614666 NaN
+23-08-2024 01:42:21 - INFO - Droping NaN's
+23-08-2024 01:42:22 - INFO - No negative total_amount values found.
+23-08-2024 01:42:22 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:42:22 - INFO - No different year found in pick-up
+23-08-2024 01:42:22 - INFO - No different year found in drop-off
+23-08-2024 01:42:22 - INFO - No different month found in pick-up column
+23-08-2024 01:42:22 - INFO - No different month found in drop-off
+23-08-2024 01:42:22 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:42:22 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:42:22 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:42:22 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:42:26 - INFO - 
+----- Data for 2011-07 ----------
+
+23-08-2024 01:42:26 - INFO - Size of df: 280108659
+23-08-2024 01:42:26 - INFO - Rows: 14742561
+23-08-2024 01:42:27 - INFO - Found 36745964 NaN
+23-08-2024 01:42:27 - INFO - Droping NaN's
+23-08-2024 01:42:28 - INFO - No negative total_amount values found.
+23-08-2024 01:42:28 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:42:28 - INFO - No different year found in pick-up
+23-08-2024 01:42:28 - INFO - No different year found in drop-off
+23-08-2024 01:42:28 - INFO - No different month found in pick-up column
+23-08-2024 01:42:28 - INFO - No different month found in drop-off
+23-08-2024 01:42:28 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:42:28 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:42:28 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:42:28 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:42:32 - INFO - 
+----- Data for 2011-01 ----------
+
+23-08-2024 01:42:32 - INFO - Size of df: 255834943
+23-08-2024 01:42:32 - INFO - Rows: 13464997
+23-08-2024 01:42:33 - INFO - Found 33668331 NaN
+23-08-2024 01:42:33 - INFO - Droping NaN's
+23-08-2024 01:42:33 - INFO - No negative total_amount values found.
+23-08-2024 01:42:33 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:42:33 - INFO - No different year found in pick-up
+23-08-2024 01:42:33 - INFO - No different year found in drop-off
+23-08-2024 01:42:33 - INFO - No different month found in pick-up column
+23-08-2024 01:42:33 - INFO - No different month found in drop-off
+23-08-2024 01:42:34 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:42:34 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:42:34 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:42:34 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:42:38 - INFO - 
+----- Data for 2014-03 ----------
+
+23-08-2024 01:42:38 - INFO - Size of df: 293134546
+23-08-2024 01:42:38 - INFO - Rows: 15428134
+23-08-2024 01:42:39 - INFO - Found 38663579 NaN
+23-08-2024 01:42:39 - INFO - Droping NaN's
+23-08-2024 01:42:40 - INFO - No negative total_amount values found.
+23-08-2024 01:42:40 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:42:40 - INFO - No different year found in pick-up
+23-08-2024 01:42:40 - INFO - No different year found in drop-off
+23-08-2024 01:42:40 - INFO - No different month found in pick-up column
+23-08-2024 01:42:40 - INFO - No different month found in drop-off
+23-08-2024 01:42:40 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:42:40 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:42:40 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:42:40 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:42:49 - INFO - 
+----- Data for 2015-05 ----------
+
+23-08-2024 01:42:49 - INFO - Size of df: 249995863
+23-08-2024 01:42:49 - INFO - Rows: 13157677
+23-08-2024 01:42:50 - INFO - Found 26315354 NaN
+23-08-2024 01:42:50 - INFO - Droping NaN's
+23-08-2024 01:42:51 - INFO - No negative total_amount values found.
+23-08-2024 01:42:51 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:42:51 - INFO - No different year found in pick-up
+23-08-2024 01:42:51 - INFO - No different year found in drop-off
+23-08-2024 01:42:51 - INFO - No different month found in pick-up column
+23-08-2024 01:42:51 - INFO - No different month found in drop-off
+23-08-2024 01:42:51 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:42:51 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:42:51 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:42:51 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:42:55 - INFO - 
+----- Data for 2011-08 ----------
+
+23-08-2024 01:42:55 - INFO - Size of df: 251986379
+23-08-2024 01:42:55 - INFO - Rows: 13262441
+23-08-2024 01:42:56 - INFO - Found 32852026 NaN
+23-08-2024 01:42:56 - INFO - Droping NaN's
+23-08-2024 01:42:57 - INFO - No negative total_amount values found.
+23-08-2024 01:42:57 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:42:57 - INFO - No different year found in pick-up
+23-08-2024 01:42:57 - INFO - No different year found in drop-off
+23-08-2024 01:42:57 - INFO - No different month found in pick-up column
+23-08-2024 01:42:57 - INFO - No different month found in drop-off
+23-08-2024 01:42:57 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:42:57 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:42:57 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:42:57 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:43:01 - INFO - 
+----- Data for 2014-02 ----------
+
+23-08-2024 01:43:01 - INFO - Size of df: 248212086
+23-08-2024 01:43:01 - INFO - Rows: 13063794
+23-08-2024 01:43:01 - INFO - Found 32792566 NaN
+23-08-2024 01:43:01 - INFO - Droping NaN's
+23-08-2024 01:43:02 - INFO - No negative total_amount values found.
+23-08-2024 01:43:02 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:43:02 - INFO - No different year found in pick-up
+23-08-2024 01:43:02 - INFO - No different year found in drop-off
+23-08-2024 01:43:02 - INFO - No different month found in pick-up column
+23-08-2024 01:43:02 - INFO - No different month found in drop-off
+23-08-2024 01:43:02 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:43:02 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:43:02 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:43:02 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:43:07 - INFO - 
+----- Data for 2012-12 ----------
+
+23-08-2024 01:43:07 - INFO - Size of df: 279235590
+23-08-2024 01:43:07 - INFO - Rows: 14696610
+23-08-2024 01:43:08 - INFO - Found 36661583 NaN
+23-08-2024 01:43:08 - INFO - Droping NaN's
+23-08-2024 01:43:09 - INFO - No negative total_amount values found.
+23-08-2024 01:43:09 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:43:09 - INFO - No different year found in pick-up
+23-08-2024 01:43:09 - INFO - No different year found in drop-off
+23-08-2024 01:43:09 - INFO - No different month found in pick-up column
+23-08-2024 01:43:09 - INFO - No different month found in drop-off
+23-08-2024 01:43:09 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:43:09 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:43:09 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:43:09 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:43:14 - INFO - 
+----- Data for 2015-04 ----------
+
+23-08-2024 01:43:14 - INFO - Size of df: 248211402
+23-08-2024 01:43:14 - INFO - Rows: 13063758
+23-08-2024 01:43:15 - INFO - Found 26127516 NaN
+23-08-2024 01:43:15 - INFO - Droping NaN's
+23-08-2024 01:43:16 - INFO - No negative total_amount values found.
+23-08-2024 01:43:16 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:43:16 - INFO - No different year found in pick-up
+23-08-2024 01:43:16 - INFO - No different year found in drop-off
+23-08-2024 01:43:16 - INFO - No different month found in pick-up column
+23-08-2024 01:43:16 - INFO - No different month found in drop-off
+23-08-2024 01:43:16 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:43:16 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:43:16 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:43:16 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:43:28 - INFO - 
+----- Data for 2013-09 ----------
+
+23-08-2024 01:43:28 - INFO - Size of df: 268046167
+23-08-2024 01:43:28 - INFO - Rows: 14107693
+23-08-2024 01:43:29 - INFO - Found 35374753 NaN
+23-08-2024 01:43:29 - INFO - Droping NaN's
+23-08-2024 01:43:30 - INFO - No negative total_amount values found.
+23-08-2024 01:43:30 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:43:30 - INFO - No different year found in pick-up
+23-08-2024 01:43:30 - INFO - No different year found in drop-off
+23-08-2024 01:43:30 - INFO - No different month found in pick-up column
+23-08-2024 01:43:30 - INFO - No different month found in drop-off
+23-08-2024 01:43:30 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:43:30 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:43:30 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:43:30 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:43:34 - INFO - 
+----- Data for 2014-06 ----------
+
+23-08-2024 01:43:34 - INFO - Size of df: 262448501
+23-08-2024 01:43:34 - INFO - Rows: 13813079
+23-08-2024 01:43:35 - INFO - Found 34655646 NaN
+23-08-2024 01:43:35 - INFO - Droping NaN's
+23-08-2024 01:43:36 - INFO - No negative total_amount values found.
+23-08-2024 01:43:36 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:43:36 - INFO - No different year found in pick-up
+23-08-2024 01:43:36 - INFO - No different year found in drop-off
+23-08-2024 01:43:36 - INFO - No different month found in pick-up column
+23-08-2024 01:43:36 - INFO - No different month found in drop-off
+23-08-2024 01:43:36 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:43:36 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:43:36 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:43:36 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:43:40 - INFO - 
+----- Data for 2012-11 ----------
+
+23-08-2024 01:43:40 - INFO - Size of df: 261744570
+23-08-2024 01:43:40 - INFO - Rows: 13776030
+23-08-2024 01:43:41 - INFO - Found 34340249 NaN
+23-08-2024 01:43:41 - INFO - Droping NaN's
+23-08-2024 01:43:42 - INFO - No negative total_amount values found.
+23-08-2024 01:43:42 - INFO - RatecodeID is OK, polilla
+23-08-2024 01:43:42 - INFO - No different year found in pick-up
+23-08-2024 01:43:42 - INFO - No different year found in drop-off
+23-08-2024 01:43:42 - INFO - No different month found in pick-up column
+23-08-2024 01:43:42 - INFO - No different month found in drop-off
+23-08-2024 01:43:42 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:43:42 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 01:43:42 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 01:43:42 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:19:01 - INFO - 
+----- Data for 2011-01 ----------
+
+23-08-2024 02:19:01 - INFO - Size of df: 255834943
+23-08-2024 02:19:01 - INFO - Rows: 13464997
+23-08-2024 02:19:02 - INFO - Found 33668331 NaN
+23-08-2024 02:19:02 - INFO - Droping NaN's
+23-08-2024 02:19:03 - INFO - No negative total_amount values found.
+23-08-2024 02:19:03 - INFO - RatecodeID is OK, polilla
+23-08-2024 02:19:03 - INFO - No different year found in pick-up
+23-08-2024 02:19:03 - INFO - No different year found in drop-off
+23-08-2024 02:19:03 - INFO - No different month found in pick-up column
+23-08-2024 02:19:03 - INFO - No different month found in drop-off
+23-08-2024 02:19:03 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:19:03 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:19:03 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:19:03 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:19:07 - INFO - 
+----- Data for 2012-09 ----------
+
+23-08-2024 02:19:08 - INFO - Size of df: 276390226
+23-08-2024 02:19:08 - INFO - Rows: 14546854
+23-08-2024 02:19:09 - INFO - Found 36298338 NaN
+23-08-2024 02:19:09 - INFO - Droping NaN's
+23-08-2024 02:19:10 - INFO - No negative total_amount values found.
+23-08-2024 02:19:10 - INFO - RatecodeID is OK, polilla
+23-08-2024 02:19:10 - INFO - No different year found in pick-up
+23-08-2024 02:19:10 - INFO - No different year found in drop-off
+23-08-2024 02:19:10 - INFO - No different month found in pick-up column
+23-08-2024 02:19:10 - INFO - No different month found in drop-off
+23-08-2024 02:19:10 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:19:10 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:19:10 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:19:10 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:19:15 - INFO - 
+----- Data for 2012-06 ----------
+
+23-08-2024 02:19:15 - INFO - Size of df: 286832892
+23-08-2024 02:19:15 - INFO - Rows: 15096468
+23-08-2024 02:19:16 - INFO - Found 37591317 NaN
+23-08-2024 02:19:16 - INFO - Droping NaN's
+23-08-2024 02:19:17 - INFO - No negative total_amount values found.
+23-08-2024 02:19:17 - INFO - RatecodeID is OK, polilla
+23-08-2024 02:19:17 - INFO - No different year found in pick-up
+23-08-2024 02:19:17 - INFO - No different year found in drop-off
+23-08-2024 02:19:17 - INFO - No different month found in pick-up column
+23-08-2024 02:19:17 - INFO - No different month found in drop-off
+23-08-2024 02:19:17 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:19:17 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:19:17 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:19:17 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:19:22 - INFO - 
+----- Data for 2011-12 ----------
+
+23-08-2024 02:19:22 - INFO - Size of df: 283593677
+23-08-2024 02:19:22 - INFO - Rows: 14925983
+23-08-2024 02:19:23 - INFO - Found 37265443 NaN
+23-08-2024 02:19:23 - INFO - Droping NaN's
+23-08-2024 02:19:24 - INFO - No negative total_amount values found.
+23-08-2024 02:19:24 - INFO - RatecodeID is OK, polilla
+23-08-2024 02:19:24 - INFO - No different year found in pick-up
+23-08-2024 02:19:24 - INFO - No different year found in drop-off
