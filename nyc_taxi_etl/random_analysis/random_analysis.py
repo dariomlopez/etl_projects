@@ -49,7 +49,7 @@ def select_random_year_month(year_range):
   return year, month
 
 def process_data(year_range):
-  for _ in range(12):
+  for _ in range(6):
     random_year, random_month = select_random_year_month(year_range)
 
     if random_month is None:

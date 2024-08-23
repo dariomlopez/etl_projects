@@ -1376,3 +1376,231 @@
 23-08-2024 02:20:20 - INFO - No available months for year 2023
 23-08-2024 02:20:20 - INFO - No available months for year 2025
 23-08-2024 02:20:20 - INFO - No available months for year 2023
+23-08-2024 02:56:11 - INFO - 
+----- Data for 2014-01 ----------
+
+23-08-2024 02:56:11 - INFO - Size of df: 261867823
+23-08-2024 02:56:11 - INFO - Rows: 13782517
+23-08-2024 02:56:12 - INFO - Found 34570447 NaN
+23-08-2024 02:56:12 - INFO - Droping NaN's
+23-08-2024 02:56:14 - INFO - No negative total_amount values found.
+23-08-2024 02:56:14 - INFO - RatecodeID is OK
+23-08-2024 02:56:14 - INFO - No different year found in pick-up
+23-08-2024 02:56:14 - INFO - No different year found in drop-off
+23-08-2024 02:56:14 - INFO - No different month found in pick-up column
+23-08-2024 02:56:14 - INFO - No different month found in drop-off
+23-08-2024 02:56:14 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:56:14 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:56:14 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:56:14 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:56:19 - INFO - 
+----- Data for 2013-12 ----------
+
+23-08-2024 02:56:19 - INFO - Size of df: 265451242
+23-08-2024 02:56:19 - INFO - Rows: 13971118
+23-08-2024 02:56:20 - INFO - Found 35001148 NaN
+23-08-2024 02:56:20 - INFO - Droping NaN's
+23-08-2024 02:56:21 - INFO - No negative total_amount values found.
+23-08-2024 02:56:21 - INFO - RatecodeID is OK
+23-08-2024 02:56:21 - INFO - No different year found in pick-up
+23-08-2024 02:56:21 - INFO - No different year found in drop-off
+23-08-2024 02:56:21 - INFO - No different month found in pick-up column
+23-08-2024 02:56:21 - INFO - No different month found in drop-off
+23-08-2024 02:56:21 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:56:21 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:56:21 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:56:21 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:56:27 - INFO - 
+----- Data for 2014-06 ----------
+
+23-08-2024 02:56:27 - INFO - Size of df: 262448501
+23-08-2024 02:56:27 - INFO - Rows: 13813079
+23-08-2024 02:56:29 - INFO - Found 34655646 NaN
+23-08-2024 02:56:29 - INFO - Droping NaN's
+23-08-2024 02:56:32 - INFO - No negative total_amount values found.
+23-08-2024 02:56:32 - INFO - RatecodeID is OK
+23-08-2024 02:56:32 - INFO - No different year found in pick-up
+23-08-2024 02:56:32 - INFO - No different year found in drop-off
+23-08-2024 02:56:32 - INFO - No different month found in pick-up column
+23-08-2024 02:56:32 - INFO - No different month found in drop-off
+23-08-2024 02:56:32 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:56:32 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:56:32 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:56:32 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:56:38 - INFO - 
+----- Data for 2014-11 ----------
+
+23-08-2024 02:56:38 - INFO - Size of df: 252889829
+23-08-2024 02:56:38 - INFO - Rows: 13309991
+23-08-2024 02:56:40 - INFO - Found 39929493 NaN
+23-08-2024 02:56:40 - INFO - Droping NaN's
+23-08-2024 02:56:43 - INFO - No negative total_amount values found.
+23-08-2024 02:56:43 - INFO - RatecodeID is OK
+23-08-2024 02:56:43 - INFO - No different year found in pick-up
+23-08-2024 02:56:43 - INFO - No different year found in drop-off
+23-08-2024 02:56:43 - INFO - No different month found in pick-up column
+23-08-2024 02:56:43 - INFO - No different month found in drop-off
+23-08-2024 02:56:43 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:56:43 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:56:43 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:56:43 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:56:49 - INFO - 
+----- Data for 2012-03 ----------
+
+23-08-2024 02:56:49 - INFO - Size of df: 306791537
+23-08-2024 02:56:49 - INFO - Rows: 16146923
+23-08-2024 02:56:50 - INFO - Found 40277294 NaN
+23-08-2024 02:56:50 - INFO - Droping NaN's
+23-08-2024 02:56:52 - INFO - No negative total_amount values found.
+23-08-2024 02:56:52 - INFO - RatecodeID is OK
+23-08-2024 02:56:52 - INFO - No different year found in pick-up
+23-08-2024 02:56:52 - INFO - No different year found in drop-off
+23-08-2024 02:56:52 - INFO - No different month found in pick-up column
+23-08-2024 02:56:52 - INFO - No different month found in drop-off
+23-08-2024 02:56:52 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:56:52 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:56:52 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:56:52 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:56:56 - INFO - 
+----- Data for 2014-07 ----------
+
+23-08-2024 02:56:56 - INFO - Size of df: 248981187
+23-08-2024 02:56:56 - INFO - Rows: 13104273
+23-08-2024 02:56:57 - INFO - Found 32938301 NaN
+23-08-2024 02:56:57 - INFO - Droping NaN's
+23-08-2024 02:56:58 - INFO - No negative total_amount values found.
+23-08-2024 02:56:58 - INFO - RatecodeID is OK
+23-08-2024 02:56:58 - INFO - No different year found in pick-up
+23-08-2024 02:56:58 - INFO - No different year found in drop-off
+23-08-2024 02:56:58 - INFO - No different month found in pick-up column
+23-08-2024 02:56:58 - INFO - No different month found in drop-off
+23-08-2024 02:56:58 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:56:58 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:56:58 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:56:58 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:57:03 - INFO - 
+----- Data for 2015-05 ----------
+
+23-08-2024 02:57:03 - INFO - Size of df: 249995863
+23-08-2024 02:57:03 - INFO - Rows: 13157677
+23-08-2024 02:57:05 - INFO - Found 26315354 NaN
+23-08-2024 02:57:05 - INFO - Droping NaN's
+23-08-2024 02:57:06 - INFO - No negative total_amount values found.
+23-08-2024 02:57:06 - INFO - RatecodeID is OK
+23-08-2024 02:57:06 - INFO - No different year found in pick-up
+23-08-2024 02:57:06 - INFO - No different year found in drop-off
+23-08-2024 02:57:06 - INFO - No different month found in pick-up column
+23-08-2024 02:57:06 - INFO - No different month found in drop-off
+23-08-2024 02:57:06 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:57:06 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:57:06 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:57:06 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:57:11 - INFO - 
+----- Data for 2012-02 ----------
+
+23-08-2024 02:57:11 - INFO - Size of df: 253865555
+23-08-2024 02:57:11 - INFO - Rows: 13361345
+23-08-2024 02:57:11 - INFO - Found 32791603 NaN
+23-08-2024 02:57:11 - INFO - Droping NaN's
+23-08-2024 02:57:13 - INFO - No negative total_amount values found.
+23-08-2024 02:57:13 - INFO - RatecodeID is OK
+23-08-2024 02:57:13 - INFO - No different year found in pick-up
+23-08-2024 02:57:13 - INFO - No different year found in drop-off
+23-08-2024 02:57:13 - INFO - No different month found in pick-up column
+23-08-2024 02:57:13 - INFO - No different month found in drop-off
+23-08-2024 02:57:13 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:57:13 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:57:13 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:57:13 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:57:18 - INFO - 
+----- Data for 2014-10 ----------
+
+23-08-2024 02:57:18 - INFO - Size of df: 272037706
+23-08-2024 02:57:18 - INFO - Rows: 14317774
+23-08-2024 02:57:19 - INFO - Found 42953308 NaN
+23-08-2024 02:57:19 - INFO - Droping NaN's
+23-08-2024 02:57:21 - INFO - No negative total_amount values found.
+23-08-2024 02:57:21 - INFO - RatecodeID is OK
+23-08-2024 02:57:21 - INFO - No different year found in pick-up
+23-08-2024 02:57:21 - INFO - No different year found in drop-off
+23-08-2024 02:57:21 - INFO - No different month found in pick-up column
+23-08-2024 02:57:21 - INFO - No different month found in drop-off
+23-08-2024 02:57:21 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:57:21 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:57:21 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:57:21 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:57:25 - INFO - 
+----- Data for 2012-08 ----------
+
+23-08-2024 02:57:25 - INFO - Size of df: 273253288
+23-08-2024 02:57:25 - INFO - Rows: 14381752
+23-08-2024 02:57:26 - INFO - Found 35873829 NaN
+23-08-2024 02:57:26 - INFO - Droping NaN's
+23-08-2024 02:57:28 - INFO - No negative total_amount values found.
+23-08-2024 02:57:28 - INFO - RatecodeID is OK
+23-08-2024 02:57:28 - INFO - No different year found in pick-up
+23-08-2024 02:57:28 - INFO - No different year found in drop-off
+23-08-2024 02:57:28 - INFO - No different month found in pick-up column
+23-08-2024 02:57:28 - INFO - No different month found in drop-off
+23-08-2024 02:57:28 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:57:28 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:57:28 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:57:28 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:57:32 - INFO - 
+----- Data for 2011-09 ----------
+
+23-08-2024 02:57:32 - INFO - Size of df: 277908212
+23-08-2024 02:57:32 - INFO - Rows: 14626748
+23-08-2024 02:57:33 - INFO - Found 36498871 NaN
+23-08-2024 02:57:33 - INFO - Droping NaN's
+23-08-2024 02:57:35 - INFO - No negative total_amount values found.
+23-08-2024 02:57:35 - INFO - RatecodeID is OK
+23-08-2024 02:57:35 - INFO - No different year found in pick-up
+23-08-2024 02:57:35 - INFO - No different year found in drop-off
+23-08-2024 02:57:35 - INFO - No different month found in pick-up column
+23-08-2024 02:57:35 - INFO - No different month found in drop-off
+23-08-2024 02:57:35 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:57:35 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:57:35 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:57:35 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:57:39 - INFO - 
+----- Data for 2014-04 ----------
+
+23-08-2024 02:57:39 - INFO - Size of df: 277756421
+23-08-2024 02:57:39 - INFO - Rows: 14618759
+23-08-2024 02:57:40 - INFO - Found 36636292 NaN
+23-08-2024 02:57:40 - INFO - Droping NaN's
+23-08-2024 02:57:42 - INFO - No negative total_amount values found.
+23-08-2024 02:57:42 - INFO - RatecodeID is OK
+23-08-2024 02:57:42 - INFO - No different year found in pick-up
+23-08-2024 02:57:42 - INFO - No different year found in drop-off
+23-08-2024 02:57:42 - INFO - No different month found in pick-up column
+23-08-2024 02:57:42 - INFO - No different month found in drop-off
+23-08-2024 02:57:42 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:57:42 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:57:42 - INFO - Outliers en trip_distance: 0 filas encontradas.
+23-08-2024 02:57:42 - INFO - Outliers en total_amount: 0 filas encontradas.
+23-08-2024 02:57:42 - INFO - No available months for year 2019
+23-08-2024 02:57:42 - INFO - No available months for year 2016
+23-08-2024 02:57:42 - INFO - No available months for year 2019
+23-08-2024 02:57:42 - INFO - No available months for year 2018
+23-08-2024 02:57:42 - INFO - No available months for year 2017
+23-08-2024 02:57:42 - INFO - No available months for year 2018
+23-08-2024 02:57:42 - INFO - No available months for year 2016
+23-08-2024 02:57:42 - INFO - No available months for year 2017
+23-08-2024 02:57:42 - INFO - No available months for year 2019
+23-08-2024 02:57:42 - INFO - No available months for year 2019
+23-08-2024 02:57:42 - INFO - No available months for year 2016
+23-08-2024 02:57:42 - INFO - No available months for year 2017
+23-08-2024 02:57:42 - INFO - No available months for year 2021
+23-08-2024 02:57:42 - INFO - No available months for year 2022
+23-08-2024 02:57:42 - INFO - No available months for year 2024
+23-08-2024 02:57:42 - INFO - No available months for year 2024
+23-08-2024 02:57:42 - INFO - No available months for year 2023
+23-08-2024 02:57:42 - INFO - No available months for year 2021
+23-08-2024 02:57:42 - INFO - No available months for year 2022
+23-08-2024 02:57:42 - INFO - No available months for year 2022
+23-08-2024 02:57:42 - INFO - No available months for year 2021
+23-08-2024 02:57:42 - INFO - No available months for year 2023
+23-08-2024 02:57:42 - INFO - No available months for year 2023
+23-08-2024 02:57:42 - INFO - No available months for year 2023
