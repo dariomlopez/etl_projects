@@ -8,17 +8,20 @@ Since I don't have prior knowledge of the data contained in the NYC Yellow Taxi 
 
 nyc_taxi_etl/
 │
-├── README.md               # Project description and objectives
-├── main.ipynb              # Notebook with detailed data analysis process
-├── main.py                 # Main script to execute the ETL
-├── requirements.txt        # List of project dependencies
+├── README.md                # Project description and objectives
+├── main.ipynb               # Notebook with detailed data analysis process
+├── main.py                  # Main script to execute the ETL
+├── requirements.txt         # List of project dependencies
 │
-├── modules/                # Python modules containing ETL logic and utilities
-│   ├── etl.py              # Module for ETL process logic
-│   └── utils.py            # Utility functions used in ETL and analysis
+├── modules/                 # Python modules containing ETL logic and utilities
+│   ├── etl.py               # Module for ETL process logic
+│   └── utils.py             # Utility functions used in ETL and analysis
 │
-├── random_analysis/        # Folder for analysis of additional datasets
-│   ├── random_analysis.py  # Script for analyzing additional datasets
-│   └── README.md           # Description of the random_analysis folder
-└── logs/                   # Folder to store execution log files
-    └── etl.log             # Log of the ETL process
+├── random_analysis/         # Folder for analysis of additional datasets
+│   ├── random_analysis.py   # Script for analyzing additional datasets
+│   ├── README.md            # Description of the random_analysis folder
+│   ├── modules/             # Python modules for random analysis
+│   │   ├── utils.py         # Utility functions for random analysis
+│   │   └── logger.py        # Logger configuration
+│   └── logs/                # Folder to store execution log files
+│       └── random_analysis.txt  # Log of the ETL process
