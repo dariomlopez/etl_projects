@@ -14,5 +14,5 @@ The purpose of this directory is to facilitate the examination of NYC Yellow Tax
 
 ## Conclusions
 
-After running the code for some times now, I can fall to the conclusion that **null** data or **Nan** data is present accross different datasets. 
-The rest of issues like wrong datacodes, negative values in total_amount, different years and months and outliers are more present in datasets from 2020/2021
+After running the code for some times, I can fall to the conclusion that **null** data or **Nan** data is present accross different datasets. 
+The rest of issues like wrong datacodes, negative values in total_amount, different years and months and outliers are more present in datasets from 2020/2021 onwards

@@ -10,7 +10,7 @@ from modules.logger import logger
 year_ranges = [
   (2011, 2015),
   (2016, 2019),
-  (2021, 2025)
+  (2021, 2024)
 ]
 
 months = list(range(1, 13))
@@ -49,7 +49,7 @@ def select_random_year_month(year_range):
   return year, month
 
 def process_data(year_range):
-  for _ in range(15):
+  for _ in range(12):
     random_year, random_month = select_random_year_month(year_range)
 
     if random_month is None:
