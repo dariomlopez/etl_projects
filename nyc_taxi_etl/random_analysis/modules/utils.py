@@ -22,7 +22,7 @@ def wrong_ratecode(df):
       if ratecodes_count > 0:
         logger.info(f"Found {ratecodes_count} rows with wrong ratecodeID")
       else:
-        logger.info("RatecodeID is OK, polilla")
+        logger.info("RatecodeID is OK")
 
 def negative_amount(df):
   for column in df.columns:
