@@ -5,7 +5,7 @@ In my current job, I work on ETL (Extract, Transform, Load) projects using Pytho
 Since I don't have prior knowledge of the data contained in the NYC Yellow Taxi datasets I work with, I perform data analysis concurrently with the ETL process. This ensures that I don't store incorrect or invalid data in the database. The goal is to maintain data integrity and quality throughout the ETL pipeline.
 
 ##### Folder structure
-
+```
 nyc_taxi_etl/
 │
 ├── README.md                # Project description and objectives
@@ -25,3 +25,4 @@ nyc_taxi_etl/
 │   │   └── logger.py        # Logger configuration
 │   └── logs/                # Folder to store execution log files
 │       └── random_analysis.txt  # Log of the ETL process
+```
