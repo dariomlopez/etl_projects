@@ -18,12 +18,13 @@ The purpose of this directory is to facilitate the examination of NYC Yellow Tax
 
 After extensive analysis, it has been observed that:
 
-1. **Null or NaN Values**: These are present across all datasets, regardless of the year. This suggests a systemic issue with missing data in the NYC Taxi dataset.
+1. **Null or NaN Values**: Are present across all datasets, regardless of the year. This suggests a systemic issue with missing data in the NYC Taxi dataset.
 
 2. **Increased Data Issues Post-2020/2021**: Datasets from 2020/2021 onwards show a marked increase in problems such as:
    - Incorrect rate codes
    - Negative values in `total_amount`
    - Mismatched years and months
    - A higher number of outliers
+   - **Persistent Data Issues Without dropna()**: When dropna() is not used, these problems are present across all datasets. This indicates that the data issues are not isolated to certain years but can occur throughout the dataset if missing values are not properly handled.
 
 Given these findings, additional cleaning steps are recommended for datasets from 2020 onwards. This includes stricter validation rules and possibly more conservative filtering of anomalous data points.

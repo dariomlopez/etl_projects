@@ -3,11 +3,18 @@ import pandas as pd
 from modules.logger import logger
 
 def find_na(df):
+  """
+  Function to find null or NaN values in dataframe and dropping them
+  Args:
+      df (dataframe): A dataframe from a file
+  Returns:
+      dataframe
+  """
   na_count = df.isnull().sum().sum()
   if na_count > 0:
     logger.info(f"Found {na_count} NaN")
-    logger.info("Droping NaN's")
-    df = df.dropna()
+    # logger.info("Droping NaN's")
+    # df = df.dropna()
   else:
     logger.info("No NaN or null values found")
   return df
@@ -35,6 +42,10 @@ def negative_amount(df):
         logger.info("No negative total_amount values found.")
 
 def different_year(df, relevant_year):
+  """
+  Function to find different years in dataframe.
+  Search for years that are different from relevant year.
+  """
   for column in df.columns:
     if 'pickup' in column.lower():
       df.loc[:,column] = pd.to_datetime(df.loc[:,column], errors='coerce')

@@ -1,12 +1,11 @@
 import requests
 import pandas as pd
-# import polars as pl
 import random
 
 from modules import utils
 from modules.logger import logger
 
-#  years previous to 2011 throw errors
+#  years previous to 2011 throw errors because of different datatypes. At the end are just two years left outside
 year_ranges = [
   (2011, 2015),
   (2016, 2019),
@@ -32,16 +31,17 @@ def select_random_month(year):
 
   available_months = [month for month in available_months if month not in dup_month]
   if not available_months:
-    return None
+    dup_month.clear()
+    available_months = [month for month in available_months if month not in dup_month]
   
   random_month = random.choice(available_months)
   dup_month.add(random_month)
-
+  print(dup_month)
   return random_month
 
 def select_random_year_month(year_range):
   """
-  Selecciona un año y un mes aleatorios dentro del rango de años dado.
+  Select a random year and random month.
   """
   year = select_random_year(year_range)
   month = select_random_month(year)
@@ -49,7 +49,8 @@ def select_random_year_month(year_range):
   return year, month
 
 def process_data(year_range):
-  for _ in range(6):
+  # change range() as needed, if you use bigger number you will have less months left
+  for _ in range(9):
     random_year, random_month = select_random_year_month(year_range)
 
     if random_month is None:
@@ -72,7 +73,7 @@ def process_data(year_range):
     logger.info(f"Size of df: {taxi_df.size}")
     logger.info(f"Rows: {len(taxi_df)}")
     
-    # Aplicar funciones de validación
+    # Apply functions
     taxi_df = utils.find_na(taxi_df)
     # na_count = utils.find_na(taxi_df)
     negative_count = utils.negative_amount(taxi_df)
@@ -81,51 +82,7 @@ def process_data(year_range):
     month_diff_count = utils.different_month(taxi_df, random_month)
     total_amount_outliers = utils.find_outliers(taxi_df, column=[column for column in taxi_df.columns if 'total' in column.lower()])
     trip_distance_outliers = utils.find_outliers(taxi_df, column=[column for column in taxi_df.columns if 'trip_distance' in column.lower()])
-      
-      # utils.find_outliers(taxi_df, column=[column for column in taxi_df.columns if 'total' in column.lower()])
-      # utils.find_outliers(taxi_df, column=[column for column in taxi_df.columns if 'trip_distance' in column.lower()])
 
-# Procesar los datos para cada rango de años
+# Process data for year range
 for year_range in year_ranges:
     process_data(year_range)
-
-
-
-
-
-
-# for _ in range(15):
-# #   Select random years and months
-#   random_year = random.choice(years)
-
-#   if random_year == 2024:
-#     months = [month for month in months if month <= 6]
-#   else:
-#     months = months
-
-#   random_month = random.choice(months)
-
-#   print(f"Random Year: {random_year}")
-#   print(f"Random Month: {random_month}")
-  
-#   url = f'https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_{random_year}-{random_month:02d}.parquet'
-
-#   taxi_df = pd.read_parquet(url, engine='pyarrow')
-
-#   print(f"Data for {random_year}-{random_month:02d}:")
-
-#   print(f"""Head: {taxi_df.head(3)}
-#   Size: {taxi_df.size}
-#   Rows: {len(taxi_df)}""")
-  
-#   taxi_df=utils.find_na(taxi_df)
-#   utils.negative_amount(taxi_df)
-#   utils.wrong_ratecode(taxi_df)
-#   utils.different_year(taxi_df, random_year)
-#   utils.different_month(taxi_df, random_month)
-
-#   utils.find_outliers(taxi_df, column=[column for column in taxi_df.columns if 'total' in column.lower()])
-#   # print(f'Outliers in total amount: {len(outliers_total)}')
-
-#   utils.find_outliers(taxi_df, column=[column for column in taxi_df.columns if 'trip_distance' in column.lower()])
-  # print(f'Outliers in trip_distance: {len(outliers_trip_distance)}')
