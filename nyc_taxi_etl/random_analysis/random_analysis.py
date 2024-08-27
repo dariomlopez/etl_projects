@@ -61,7 +61,7 @@ def select_random_month(year):
   print(dup_month)
   return random_month
 
-def select_random_year_month():
+def select_random_year_month(year):
   """
     Selects a random year and month.
 
@@ -78,7 +78,7 @@ def select_random_year_month():
 
 def process_data(years, times_per_year=6):
   """
-  Function to process the datasets accross different years and months.
+  Function to process the datasets across different years and months.
   Args:
         years (list): A list of years to process the data for.
         times_per_year (int): Number of times to process data for each year. 
@@ -89,7 +89,7 @@ def process_data(years, times_per_year=6):
   """
   for year in years:
     for _ in range(times_per_year):
-      random_year, random_month = select_random_year_month()
+      random_year, random_month = select_random_year_month(year)
 
     if random_month is None:
         logger.info(f"No available months for year {random_year}")
