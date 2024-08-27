@@ -84,6 +84,7 @@ def process_data(years, times_per_year=6):
         times_per_year (int): Number of times to process data for each year. 
                               Default is 6, meaning the script will randomly 
                               select and process data for 6 different months per year.
+                              The bigger the number the longer it takes the script to run.
   This function processes the NYC Yellow Taxi dataset for a random selection of months within each year.
   Attempts to download the corresponding dataset and applies various data analysis and logs relevant information
   """
