@@ -30,29 +30,36 @@ nyc_taxi_etl/
 ## Installation
 ### Clone the repository
 
-```Terminal console/command prompt
+```
 git clone https://github.com/dariomlopez/etl_projects/tree/main/nyc_taxi_etl
 cd nyc_taxi_etl
 ```
 ### Option 1: Create a virtual environment 
-```Terminal console/command prompt
-
+```
 python -m venv venv
 source venv/bin/activate
 ```
 Then install the dependencies: 
-```Terminal console/command prompt
-
+```
 pip install -r requirements.txt
 ```
 ### Option 2: Use Docker 
 If you prefer using Docker, ensure you have Docker installed on your machine. Then, build and run the Docker container:
 #### 1. Build Docker image 
-```Terminal console
-
+```
 docker build -t nyc_taxi_etl .
 ```
 #### 2. Run the Docker container
-```Terminal console
+```
 docker run --rm -it nyc_taxi_etl
 ```
+
+## Usage
+### Run the main.py ETL process
+If using a virtual environment or Docker, execute the main script to perform the ETL operations:
+```
+python main.py
+```
+### Random Analysis
+For additional dataset analysis, navigate to the random_analysis folder and run:
+```python random_analysis.py```
