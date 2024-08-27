@@ -27,9 +27,9 @@ nyc_taxi_etl/
 │   └── logs/               # Folder to store execution log files
 │       └── random_analysis.txt # Log of the random analysis process
 ```
+
 ## Installation
 ### Clone the repository
-
 ```
 git clone https://github.com/dariomlopez/etl_projects/tree/main/nyc_taxi_etl
 cd nyc_taxi_etl
@@ -43,12 +43,15 @@ Then install the dependencies:
 ```
 pip install -r requirements.txt
 ```
+
 ### Option 2: Use Docker 
 If you prefer using Docker, ensure you have Docker installed on your machine. Then, build and run the Docker container:
+
 #### 1. Build Docker image 
 ```
 docker build -t nyc_taxi_etl .
 ```
+
 #### 2. Run the Docker container
 ```
 docker run --rm -it nyc_taxi_etl
@@ -60,6 +63,12 @@ If using a virtual environment or Docker, execute the main script to perform the
 ```
 python main.py
 ```
+
 ### Random Analysis
 For additional dataset analysis, navigate to the random_analysis folder and run:
-```python random_analysis.py```
+```
+python random_analysis.py
+```
+
+### Jupyter Notebook
+Open main.ipynb in Jupyter Notebook for an in-depth analysis of the ETL process and the reasons behind the transformations applied to the dataset.
