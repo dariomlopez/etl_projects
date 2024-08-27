@@ -24,7 +24,7 @@ After extensive analysis, it has been observed that:
    - Incorrect rate codes
    - Negative values in `total_amount`
    - Mismatched years and months
-   - A higher number of outliers<br />
-   **Persistent Data Issues Without dropna()**: When dropna() is not used, these problems are present across all datasets. This indicates that the data issues are not isolated to certain years but can occur throughout the dataset if missing values are not properly handled.
+   - A higher number of outliers <br>
+    **Persistent Data Issues Without dropna()**: When dropna() is not used, these problems are present across all datasets. This indicates that the data issues are not isolated to certain years but can occur throughout the dataset if missing values are not properly handled.
 
 Given these findings, additional cleaning steps are recommended for datasets from 2020 onwards. This includes stricter validation rules and possibly more conservative filtering of anomalous data points.
