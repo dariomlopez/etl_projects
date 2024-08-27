@@ -6,7 +6,7 @@ Since I don't have prior knowledge of the data contained in the NYC Yellow Taxi 
 
 ##### Folder structure
 ```
-nyc_taxi_etl/
+nyc_taxi_etl/   # NYC Yellow Taxi ETL Project
 │
 ├── README.md                # Project description and objectives
 ├── main.ipynb               # Notebook with detailed data analysis process

@@ -3,7 +3,7 @@ import pandas as pd
 # import our own modules
 from modules.utils import postgres_connection, calculate_thresholds
 
-def load_taxi_tripdata():
+def etl_taxi_tripdata():
     url = 'https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-01.parquet'
     connection = postgres_connection()
 
