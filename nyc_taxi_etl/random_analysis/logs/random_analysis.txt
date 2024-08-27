@@ -2213,3 +2213,915 @@
 26-08-2024 02:48:15 - INFO - Outliers en total_amount: 647554 filas encontradas.
 26-08-2024 02:48:15 - INFO - Outliers en trip_distance: 720609 filas encontradas.
 26-08-2024 02:48:16 - INFO - Outliers en total_amount: 647554 filas encontradas.
+27-08-2024 09:45:26 - INFO - 
+----- Data for 2015-05 ----------
+
+27-08-2024 09:45:26 - INFO - Size of df: 249995863
+27-08-2024 09:45:26 - INFO - Rows: 13157677
+27-08-2024 09:45:27 - INFO - Found 26315354 NaN
+27-08-2024 09:45:27 - INFO - Found 4495 rows with negative total_amount values.
+27-08-2024 09:45:27 - INFO - Found 376 rows with wrong ratecodeID
+27-08-2024 09:45:28 - INFO - No different year found in pick-up
+27-08-2024 09:45:28 - INFO - No different year found in drop-off
+27-08-2024 09:45:29 - INFO - No different month found in pick-up column
+27-08-2024 09:45:29 - INFO - In column drop-off: Found 2859 rows with different month
+27-08-2024 09:45:30 - INFO - Outliers en trip_distance: 1389144 filas encontradas.
+27-08-2024 09:45:31 - INFO - Outliers en total_amount: 1200360 filas encontradas.
+27-08-2024 09:45:32 - INFO - Outliers en trip_distance: 1389144 filas encontradas.
+27-08-2024 09:45:32 - INFO - Outliers en total_amount: 1200360 filas encontradas.
+27-08-2024 09:45:37 - INFO - 
+----- Data for 2012-02 ----------
+
+27-08-2024 09:45:37 - INFO - Size of df: 253865555
+27-08-2024 09:45:37 - INFO - Rows: 13361345
+27-08-2024 09:45:38 - INFO - Found 32791603 NaN
+27-08-2024 09:45:38 - INFO - No negative total_amount values found.
+27-08-2024 09:45:38 - INFO - Found 644 rows with wrong ratecodeID
+27-08-2024 09:45:38 - INFO - No different year found in pick-up
+27-08-2024 09:45:39 - INFO - No different year found in drop-off
+27-08-2024 09:45:39 - INFO - No different month found in pick-up column
+27-08-2024 09:45:40 - INFO - In column drop-off: Found 3504 rows with different month
+27-08-2024 09:45:40 - INFO - Outliers en trip_distance: 1187191 filas encontradas.
+27-08-2024 09:45:41 - INFO - Outliers en total_amount: 1046501 filas encontradas.
+27-08-2024 09:45:42 - INFO - Outliers en trip_distance: 1187191 filas encontradas.
+27-08-2024 09:45:42 - INFO - Outliers en total_amount: 1046501 filas encontradas.
+27-08-2024 09:45:47 - INFO - 
+----- Data for 2012-10 ----------
+
+27-08-2024 09:45:47 - INFO - Size of df: 275923985
+27-08-2024 09:45:47 - INFO - Rows: 14522315
+27-08-2024 09:45:48 - INFO - Found 36193076 NaN
+27-08-2024 09:45:48 - INFO - No negative total_amount values found.
+27-08-2024 09:45:48 - INFO - Found 1027 rows with wrong ratecodeID
+27-08-2024 09:45:49 - INFO - No different year found in pick-up
+27-08-2024 09:45:49 - INFO - No different year found in drop-off
+27-08-2024 09:45:50 - INFO - No different month found in pick-up column
+27-08-2024 09:45:50 - INFO - In column drop-off: Found 3185 rows with different month
+27-08-2024 09:45:51 - INFO - Outliers en trip_distance: 1375956 filas encontradas.
+27-08-2024 09:45:52 - INFO - Outliers en total_amount: 1256785 filas encontradas.
+27-08-2024 09:45:53 - INFO - Outliers en trip_distance: 1375956 filas encontradas.
+27-08-2024 09:45:53 - INFO - Outliers en total_amount: 1256785 filas encontradas.
+27-08-2024 09:45:59 - INFO - 
+----- Data for 2014-03 ----------
+
+27-08-2024 09:45:59 - INFO - Size of df: 293134546
+27-08-2024 09:45:59 - INFO - Rows: 15428134
+27-08-2024 09:46:00 - INFO - Found 38663579 NaN
+27-08-2024 09:46:00 - INFO - No negative total_amount values found.
+27-08-2024 09:46:00 - INFO - Found 1603 rows with wrong ratecodeID
+27-08-2024 09:46:00 - INFO - No different year found in pick-up
+27-08-2024 09:46:01 - INFO - In drop-off column: Found 2 rows with different year.
+27-08-2024 09:46:01 - INFO - No different month found in pick-up column
+27-08-2024 09:46:02 - INFO - In column drop-off: Found 2738 rows with different month
+27-08-2024 09:46:03 - INFO - Outliers en trip_distance: 1447541 filas encontradas.
+27-08-2024 09:46:03 - INFO - Outliers en total_amount: 1315980 filas encontradas.
+27-08-2024 09:46:04 - INFO - Outliers en trip_distance: 1447541 filas encontradas.
+27-08-2024 09:46:05 - INFO - Outliers en total_amount: 1315980 filas encontradas.
+27-08-2024 09:46:11 - INFO - 
+----- Data for 2012-01 ----------
+
+27-08-2024 09:46:11 - INFO - Size of df: 248108612
+27-08-2024 09:46:11 - INFO - Rows: 13058348
+27-08-2024 09:46:12 - INFO - Found 31926876 NaN
+27-08-2024 09:46:12 - INFO - No negative total_amount values found.
+27-08-2024 09:46:12 - INFO - Found 592 rows with wrong ratecodeID
+27-08-2024 09:46:13 - INFO - No different year found in pick-up
+27-08-2024 09:46:13 - INFO - No different year found in drop-off
+27-08-2024 09:46:14 - INFO - No different month found in pick-up column
+27-08-2024 09:46:14 - INFO - In column drop-off: Found 2589 rows with different month
+27-08-2024 09:46:15 - INFO - Outliers en trip_distance: 1154460 filas encontradas.
+27-08-2024 09:46:16 - INFO - Outliers en total_amount: 1049917 filas encontradas.
+27-08-2024 09:46:16 - INFO - Outliers en trip_distance: 1154460 filas encontradas.
+27-08-2024 09:46:17 - INFO - Outliers en total_amount: 1049917 filas encontradas.
+27-08-2024 09:46:24 - INFO - 
+----- Data for 2014-07 ----------
+
+27-08-2024 09:46:24 - INFO - Size of df: 248981187
+27-08-2024 09:46:24 - INFO - Rows: 13104273
+27-08-2024 09:46:25 - INFO - Found 32938301 NaN
+27-08-2024 09:46:25 - INFO - No negative total_amount values found.
+27-08-2024 09:46:25 - INFO - Found 756 rows with wrong ratecodeID
+27-08-2024 09:46:25 - INFO - No different year found in pick-up
+27-08-2024 09:46:26 - INFO - No different year found in drop-off
+27-08-2024 09:46:26 - INFO - No different month found in pick-up column
+27-08-2024 09:46:27 - INFO - In column drop-off: Found 5749 rows with different month
+27-08-2024 09:46:27 - INFO - Outliers en trip_distance: 1299222 filas encontradas.
+27-08-2024 09:46:28 - INFO - Outliers en total_amount: 1124031 filas encontradas.
+27-08-2024 09:46:29 - INFO - Outliers en trip_distance: 1299222 filas encontradas.
+27-08-2024 09:46:30 - INFO - Outliers en total_amount: 1124031 filas encontradas.
+27-08-2024 09:46:36 - INFO - 
+----- Data for 2012-06 ----------
+
+27-08-2024 09:46:36 - INFO - Size of df: 286832892
+27-08-2024 09:46:36 - INFO - Rows: 15096468
+27-08-2024 09:46:37 - INFO - Found 37591317 NaN
+27-08-2024 09:46:37 - INFO - No negative total_amount values found.
+27-08-2024 09:46:37 - INFO - Found 953 rows with wrong ratecodeID
+27-08-2024 09:46:38 - INFO - No different year found in pick-up
+27-08-2024 09:46:38 - INFO - No different year found in drop-off
+27-08-2024 09:46:39 - INFO - No different month found in pick-up column
+27-08-2024 09:46:39 - INFO - In column drop-off: Found 5918 rows with different month
+27-08-2024 09:46:40 - INFO - Outliers en trip_distance: 1405605 filas encontradas.
+27-08-2024 09:46:41 - INFO - Outliers en total_amount: 1225292 filas encontradas.
+27-08-2024 09:46:42 - INFO - Outliers en trip_distance: 1405605 filas encontradas.
+27-08-2024 09:46:42 - INFO - Outliers en total_amount: 1225292 filas encontradas.
+27-08-2024 09:46:48 - INFO - 
+----- Data for 2014-11 ----------
+
+27-08-2024 09:46:48 - INFO - Size of df: 252889829
+27-08-2024 09:46:48 - INFO - Rows: 13309991
+27-08-2024 09:46:49 - INFO - Found 39929493 NaN
+27-08-2024 09:46:49 - INFO - Found 3617 rows with negative total_amount values.
+27-08-2024 09:46:49 - INFO - Found 538 rows with wrong ratecodeID
+27-08-2024 09:46:49 - INFO - No different year found in pick-up
+27-08-2024 09:46:50 - INFO - In drop-off column: Found 10 rows with different year.
+27-08-2024 09:46:50 - INFO - No different month found in pick-up column
+27-08-2024 09:46:51 - INFO - In column drop-off: Found 2657 rows with different month
+27-08-2024 09:46:51 - INFO - Outliers en trip_distance: 1322317 filas encontradas.
+27-08-2024 09:46:52 - INFO - Outliers en total_amount: 1108706 filas encontradas.
+27-08-2024 09:46:53 - INFO - Outliers en trip_distance: 1322317 filas encontradas.
+27-08-2024 09:46:54 - INFO - Outliers en total_amount: 1108706 filas encontradas.
+27-08-2024 09:47:01 - INFO - 
+----- Data for 2014-09 ----------
+
+27-08-2024 09:47:01 - INFO - Size of df: 255062650
+27-08-2024 09:47:01 - INFO - Rows: 13424350
+27-08-2024 09:47:02 - INFO - Found 40273046 NaN
+27-08-2024 09:47:02 - INFO - Found 3641 rows with negative total_amount values.
+27-08-2024 09:47:02 - INFO - Found 406 rows with wrong ratecodeID
+27-08-2024 09:47:02 - INFO - No different year found in pick-up
+27-08-2024 09:47:03 - INFO - No different year found in drop-off
+27-08-2024 09:47:03 - INFO - No different month found in pick-up column
+27-08-2024 09:47:04 - INFO - In column drop-off: Found 3724 rows with different month
+27-08-2024 09:47:05 - INFO - Outliers en trip_distance: 1336388 filas encontradas.
+27-08-2024 09:47:05 - INFO - Outliers en total_amount: 1184794 filas encontradas.
+27-08-2024 09:47:06 - INFO - Outliers en trip_distance: 1336388 filas encontradas.
+27-08-2024 09:47:07 - INFO - Outliers en total_amount: 1184794 filas encontradas.
+27-08-2024 09:47:11 - INFO - 
+----- Data for 2016-12 ----------
+
+27-08-2024 09:47:11 - INFO - Size of df: 198487243
+27-08-2024 09:47:11 - INFO - Rows: 10446697
+27-08-2024 09:47:12 - INFO - Found 20893394 NaN
+27-08-2024 09:47:12 - INFO - Found 5011 rows with negative total_amount values.
+27-08-2024 09:47:12 - INFO - Found 209 rows with wrong ratecodeID
+27-08-2024 09:47:12 - INFO - No different year found in pick-up
+27-08-2024 09:47:13 - INFO - In drop-off column: Found 1943 rows with different year.
+27-08-2024 09:47:13 - INFO - No different month found in pick-up column
+27-08-2024 09:47:13 - INFO - In column drop-off: Found 1943 rows with different month
+27-08-2024 09:47:14 - INFO - Outliers en trip_distance: 1115324 filas encontradas.
+27-08-2024 09:47:15 - INFO - Outliers en total_amount: 933385 filas encontradas.
+27-08-2024 09:47:15 - INFO - Outliers en trip_distance: 1115324 filas encontradas.
+27-08-2024 09:47:16 - INFO - Outliers en total_amount: 933385 filas encontradas.
+27-08-2024 09:47:21 - INFO - 
+----- Data for 2017-08 ----------
+
+27-08-2024 09:47:21 - INFO - Size of df: 160020907
+27-08-2024 09:47:21 - INFO - Rows: 8422153
+27-08-2024 09:47:21 - INFO - Found 16844306 NaN
+27-08-2024 09:47:21 - INFO - Found 4405 rows with negative total_amount values.
+27-08-2024 09:47:21 - INFO - Found 142 rows with wrong ratecodeID
+27-08-2024 09:47:22 - INFO - In Pick-Up column: Found 6 rows with different year.
+27-08-2024 09:47:22 - INFO - In drop-off column: Found 7 rows with different year.
+27-08-2024 09:47:22 - INFO - In column pick-up: Found 89 rows with different month
+27-08-2024 09:47:23 - INFO - In column drop-off: Found 2918 rows with different month
+27-08-2024 09:47:23 - INFO - Outliers en trip_distance: 960547 filas encontradas.
+27-08-2024 09:47:24 - INFO - Outliers en total_amount: 835067 filas encontradas.
+27-08-2024 09:47:24 - INFO - Outliers en trip_distance: 960547 filas encontradas.
+27-08-2024 09:47:25 - INFO - Outliers en total_amount: 835067 filas encontradas.
+27-08-2024 09:47:28 - INFO - 
+----- Data for 2018-04 ----------
+
+27-08-2024 09:47:28 - INFO - Size of df: 176818104
+27-08-2024 09:47:28 - INFO - Rows: 9306216
+27-08-2024 09:47:29 - INFO - Found 18612432 NaN
+27-08-2024 09:47:29 - INFO - Found 4976 rows with negative total_amount values.
+27-08-2024 09:47:29 - INFO - Found 125 rows with wrong ratecodeID
+27-08-2024 09:47:29 - INFO - In Pick-Up column: Found 39 rows with different year.
+27-08-2024 09:47:30 - INFO - In drop-off column: Found 39 rows with different year.
+27-08-2024 09:47:30 - INFO - In column pick-up: Found 488 rows with different month
+27-08-2024 09:47:30 - INFO - In column drop-off: Found 2285 rows with different month
+27-08-2024 09:47:31 - INFO - Outliers en trip_distance: 1067741 filas encontradas.
+27-08-2024 09:47:31 - INFO - Outliers en total_amount: 892241 filas encontradas.
+27-08-2024 09:47:32 - INFO - Outliers en trip_distance: 1067741 filas encontradas.
+27-08-2024 09:47:33 - INFO - Outliers en total_amount: 892241 filas encontradas.
+27-08-2024 09:52:32 - INFO - 
+----- Data for 2014-11 ----------
+
+27-08-2024 09:52:32 - INFO - Size of df: 252889829
+27-08-2024 09:52:32 - INFO - Rows: 13309991
+27-08-2024 09:52:33 - INFO - Found 39929493 NaN
+27-08-2024 09:52:33 - INFO - Found 3617 rows with negative total_amount values.
+27-08-2024 09:52:33 - INFO - Found 538 rows with wrong ratecodeID
+27-08-2024 09:52:34 - INFO - No different year found in pick-up
+27-08-2024 09:52:34 - INFO - In drop-off column: Found 10 rows with different year.
+27-08-2024 09:52:35 - INFO - No different month found in pick-up column
+27-08-2024 09:52:35 - INFO - In column drop-off: Found 2657 rows with different month
+27-08-2024 09:52:36 - INFO - Outliers en trip_distance: 1322317 filas encontradas.
+27-08-2024 09:52:37 - INFO - Outliers en total_amount: 1108706 filas encontradas.
+27-08-2024 09:52:37 - INFO - Outliers en trip_distance: 1322317 filas encontradas.
+27-08-2024 09:52:38 - INFO - Outliers en total_amount: 1108706 filas encontradas.
+27-08-2024 09:52:45 - INFO - 
+----- Data for 2012-03 ----------
+
+27-08-2024 09:52:45 - INFO - Size of df: 306791537
+27-08-2024 09:52:45 - INFO - Rows: 16146923
+27-08-2024 09:52:46 - INFO - Found 40277294 NaN
+27-08-2024 09:52:46 - INFO - No negative total_amount values found.
+27-08-2024 09:52:46 - INFO - Found 621 rows with wrong ratecodeID
+27-08-2024 09:52:47 - INFO - No different year found in pick-up
+27-08-2024 09:52:47 - INFO - No different year found in drop-off
+27-08-2024 09:52:48 - INFO - No different month found in pick-up column
+27-08-2024 09:52:48 - INFO - In column drop-off: Found 7303 rows with different month
+27-08-2024 09:52:49 - INFO - Outliers en trip_distance: 1478654 filas encontradas.
+27-08-2024 09:52:50 - INFO - Outliers en total_amount: 1314710 filas encontradas.
+27-08-2024 09:52:50 - INFO - Outliers en trip_distance: 1478654 filas encontradas.
+27-08-2024 09:52:51 - INFO - Outliers en total_amount: 1314710 filas encontradas.
+27-08-2024 09:52:56 - INFO - 
+----- Data for 2015-10 ----------
+
+27-08-2024 09:52:56 - INFO - Size of df: 233839327
+27-08-2024 09:52:56 - INFO - Rows: 12307333
+27-08-2024 09:52:57 - INFO - Found 24614666 NaN
+27-08-2024 09:52:57 - INFO - Found 4527 rows with negative total_amount values.
+27-08-2024 09:52:57 - INFO - Found 373 rows with wrong ratecodeID
+27-08-2024 09:52:57 - INFO - No different year found in pick-up
+27-08-2024 09:52:58 - INFO - In drop-off column: Found 1 rows with different year.
+27-08-2024 09:52:58 - INFO - No different month found in pick-up column
+27-08-2024 09:52:59 - INFO - In column drop-off: Found 7639 rows with different month
+27-08-2024 09:52:59 - INFO - Outliers en trip_distance: 1319786 filas encontradas.
+27-08-2024 09:53:00 - INFO - Outliers en total_amount: 1140789 filas encontradas.
+27-08-2024 09:53:01 - INFO - Outliers en trip_distance: 1319786 filas encontradas.
+27-08-2024 09:53:01 - INFO - Outliers en total_amount: 1140789 filas encontradas.
+27-08-2024 09:53:09 - INFO - 
+----- Data for 2012-11 ----------
+
+27-08-2024 09:53:09 - INFO - Size of df: 261744570
+27-08-2024 09:53:09 - INFO - Rows: 13776030
+27-08-2024 09:53:10 - INFO - Found 34340249 NaN
+27-08-2024 09:53:10 - INFO - No negative total_amount values found.
+27-08-2024 09:53:10 - INFO - Found 2111 rows with wrong ratecodeID
+27-08-2024 09:53:10 - INFO - No different year found in pick-up
+27-08-2024 09:53:11 - INFO - No different year found in drop-off
+27-08-2024 09:53:11 - INFO - No different month found in pick-up column
+27-08-2024 09:53:12 - INFO - In column drop-off: Found 6961 rows with different month
+27-08-2024 09:53:13 - INFO - Outliers en trip_distance: 1302039 filas encontradas.
+27-08-2024 09:53:13 - INFO - Outliers en total_amount: 1185990 filas encontradas.
+27-08-2024 09:53:14 - INFO - Outliers en trip_distance: 1302039 filas encontradas.
+27-08-2024 09:53:15 - INFO - Outliers en total_amount: 1185990 filas encontradas.
+27-08-2024 09:53:22 - INFO - 
+----- Data for 2013-06 ----------
+
+27-08-2024 09:53:22 - INFO - Size of df: 273323664
+27-08-2024 09:53:22 - INFO - Rows: 14385456
+27-08-2024 09:53:23 - INFO - Found 35993624 NaN
+27-08-2024 09:53:23 - INFO - No negative total_amount values found.
+27-08-2024 09:53:23 - INFO - Found 6869 rows with wrong ratecodeID
+27-08-2024 09:53:24 - INFO - No different year found in pick-up
+27-08-2024 09:53:24 - INFO - No different year found in drop-off
+27-08-2024 09:53:25 - INFO - No different month found in pick-up column
+27-08-2024 09:53:25 - INFO - In column drop-off: Found 2831 rows with different month
+27-08-2024 09:53:26 - INFO - Outliers en trip_distance: 1359856 filas encontradas.
+27-08-2024 09:53:27 - INFO - Outliers en total_amount: 1177041 filas encontradas.
+27-08-2024 09:53:28 - INFO - Outliers en trip_distance: 1359856 filas encontradas.
+27-08-2024 09:53:28 - INFO - Outliers en total_amount: 1177041 filas encontradas.
+27-08-2024 09:53:33 - INFO - 
+----- Data for 2012-02 ----------
+
+27-08-2024 09:53:33 - INFO - Size of df: 253865555
+27-08-2024 09:53:33 - INFO - Rows: 13361345
+27-08-2024 09:53:34 - INFO - Found 32791603 NaN
+27-08-2024 09:53:34 - INFO - No negative total_amount values found.
+27-08-2024 09:53:34 - INFO - Found 644 rows with wrong ratecodeID
+27-08-2024 09:53:34 - INFO - No different year found in pick-up
+27-08-2024 09:53:35 - INFO - No different year found in drop-off
+27-08-2024 09:53:35 - INFO - No different month found in pick-up column
+27-08-2024 09:53:35 - INFO - In column drop-off: Found 3504 rows with different month
+27-08-2024 09:53:36 - INFO - Outliers en trip_distance: 1187191 filas encontradas.
+27-08-2024 09:53:37 - INFO - Outliers en total_amount: 1046501 filas encontradas.
+27-08-2024 09:53:38 - INFO - Outliers en trip_distance: 1187191 filas encontradas.
+27-08-2024 09:53:38 - INFO - Outliers en total_amount: 1046501 filas encontradas.
+27-08-2024 09:53:43 - INFO - 
+----- Data for 2015-10 ----------
+
+27-08-2024 09:53:43 - INFO - Size of df: 233839327
+27-08-2024 09:53:43 - INFO - Rows: 12307333
+27-08-2024 09:53:43 - INFO - Found 24614666 NaN
+27-08-2024 09:53:43 - INFO - Found 4527 rows with negative total_amount values.
+27-08-2024 09:53:43 - INFO - Found 373 rows with wrong ratecodeID
+27-08-2024 09:53:44 - INFO - No different year found in pick-up
+27-08-2024 09:53:44 - INFO - In drop-off column: Found 1 rows with different year.
+27-08-2024 09:53:45 - INFO - No different month found in pick-up column
+27-08-2024 09:53:45 - INFO - In column drop-off: Found 7639 rows with different month
+27-08-2024 09:53:46 - INFO - Outliers en trip_distance: 1319786 filas encontradas.
+27-08-2024 09:53:47 - INFO - Outliers en total_amount: 1140789 filas encontradas.
+27-08-2024 09:53:47 - INFO - Outliers en trip_distance: 1319786 filas encontradas.
+27-08-2024 09:53:48 - INFO - Outliers en total_amount: 1140789 filas encontradas.
+27-08-2024 09:53:52 - INFO - 
+----- Data for 2015-10 ----------
+
+27-08-2024 09:53:52 - INFO - Size of df: 233839327
+27-08-2024 09:53:52 - INFO - Rows: 12307333
+27-08-2024 09:53:53 - INFO - Found 24614666 NaN
+27-08-2024 09:53:53 - INFO - Found 4527 rows with negative total_amount values.
+27-08-2024 09:53:53 - INFO - Found 373 rows with wrong ratecodeID
+27-08-2024 09:53:54 - INFO - No different year found in pick-up
+27-08-2024 09:53:54 - INFO - In drop-off column: Found 1 rows with different year.
+27-08-2024 09:53:55 - INFO - No different month found in pick-up column
+27-08-2024 09:53:55 - INFO - In column drop-off: Found 7639 rows with different month
+27-08-2024 09:53:56 - INFO - Outliers en trip_distance: 1319786 filas encontradas.
+27-08-2024 09:53:56 - INFO - Outliers en total_amount: 1140789 filas encontradas.
+27-08-2024 09:53:57 - INFO - Outliers en trip_distance: 1319786 filas encontradas.
+27-08-2024 09:53:58 - INFO - Outliers en total_amount: 1140789 filas encontradas.
+27-08-2024 09:54:02 - INFO - 
+----- Data for 2014-07 ----------
+
+27-08-2024 09:54:02 - INFO - Size of df: 248981187
+27-08-2024 09:54:02 - INFO - Rows: 13104273
+27-08-2024 09:54:03 - INFO - Found 32938301 NaN
+27-08-2024 09:54:03 - INFO - No negative total_amount values found.
+27-08-2024 09:54:03 - INFO - Found 756 rows with wrong ratecodeID
+27-08-2024 09:54:04 - INFO - No different year found in pick-up
+27-08-2024 09:54:04 - INFO - No different year found in drop-off
+27-08-2024 09:54:05 - INFO - No different month found in pick-up column
+27-08-2024 09:54:05 - INFO - In column drop-off: Found 5749 rows with different month
+27-08-2024 09:54:06 - INFO - Outliers en trip_distance: 1299222 filas encontradas.
+27-08-2024 09:54:07 - INFO - Outliers en total_amount: 1124031 filas encontradas.
+27-08-2024 09:54:07 - INFO - Outliers en trip_distance: 1299222 filas encontradas.
+27-08-2024 09:54:08 - INFO - Outliers en total_amount: 1124031 filas encontradas.
+27-08-2024 09:54:18 - INFO - 
+----- Data for 2018-08 ----------
+
+27-08-2024 09:54:18 - INFO - Size of df: 149245760
+27-08-2024 09:54:18 - INFO - Rows: 7855040
+27-08-2024 09:54:19 - INFO - Found 15725575 NaN
+27-08-2024 09:54:19 - INFO - Found 5923 rows with negative total_amount values.
+27-08-2024 09:54:19 - INFO - Found 186 rows with wrong ratecodeID
+27-08-2024 09:54:19 - INFO - In Pick-Up column: Found 87 rows with different year.
+27-08-2024 09:54:19 - INFO - In drop-off column: Found 87 rows with different year.
+27-08-2024 09:54:20 - INFO - In column pick-up: Found 439 rows with different month
+27-08-2024 09:54:20 - INFO - In column drop-off: Found 3133 rows with different month
+27-08-2024 09:54:20 - INFO - Outliers en trip_distance: 917067 filas encontradas.
+27-08-2024 09:54:21 - INFO - Outliers en total_amount: 791997 filas encontradas.
+27-08-2024 09:54:21 - INFO - Outliers en trip_distance: 917067 filas encontradas.
+27-08-2024 09:54:22 - INFO - Outliers en total_amount: 791997 filas encontradas.
+27-08-2024 09:54:26 - INFO - 
+----- Data for 2016-09 ----------
+
+27-08-2024 09:54:26 - INFO - Size of df: 192204342
+27-08-2024 09:54:26 - INFO - Rows: 10116018
+27-08-2024 09:54:26 - INFO - Found 20232036 NaN
+27-08-2024 09:54:26 - INFO - Found 4601 rows with negative total_amount values.
+27-08-2024 09:54:27 - INFO - Found 191 rows with wrong ratecodeID
+27-08-2024 09:54:27 - INFO - No different year found in pick-up
+27-08-2024 09:54:27 - INFO - No different year found in drop-off
+27-08-2024 09:54:28 - INFO - No different month found in pick-up column
+27-08-2024 09:54:28 - INFO - In column drop-off: Found 5529 rows with different month
+27-08-2024 09:54:29 - INFO - Outliers en trip_distance: 1103245 filas encontradas.
+27-08-2024 09:54:29 - INFO - Outliers en total_amount: 935757 filas encontradas.
+27-08-2024 09:54:30 - INFO - Outliers en trip_distance: 1103245 filas encontradas.
+27-08-2024 09:54:30 - INFO - Outliers en total_amount: 935757 filas encontradas.
+27-08-2024 09:54:34 - INFO - 
+----- Data for 2019-04 ----------
+
+27-08-2024 09:54:34 - INFO - Size of df: 142043031
+27-08-2024 09:54:34 - INFO - Rows: 7475949
+27-08-2024 09:54:34 - INFO - Found 7645773 NaN
+27-08-2024 09:54:34 - INFO - Found 11986 rows with negative total_amount values.
+27-08-2024 09:54:34 - INFO - Found 289 rows with wrong ratecodeID
+27-08-2024 09:54:35 - INFO - In Pick-Up column: Found 70 rows with different year.
+27-08-2024 09:54:35 - INFO - In drop-off column: Found 70 rows with different year.
+27-08-2024 09:54:35 - INFO - In column pick-up: Found 310 rows with different month
+27-08-2024 09:54:35 - INFO - In column drop-off: Found 2400 rows with different month
+27-08-2024 09:54:36 - INFO - Outliers en trip_distance: 876464 filas encontradas.
+27-08-2024 09:54:36 - INFO - Outliers en total_amount: 748928 filas encontradas.
+27-08-2024 09:54:37 - INFO - Outliers en trip_distance: 876464 filas encontradas.
+27-08-2024 09:54:37 - INFO - Outliers en total_amount: 748928 filas encontradas.
+27-08-2024 09:54:42 - INFO - 
+----- Data for 2017-07 ----------
+
+27-08-2024 09:54:42 - INFO - Size of df: 163181234
+27-08-2024 09:54:42 - INFO - Rows: 8588486
+27-08-2024 09:54:43 - INFO - Found 17176972 NaN
+27-08-2024 09:54:43 - INFO - Found 4667 rows with negative total_amount values.
+27-08-2024 09:54:43 - INFO - Found 168 rows with wrong ratecodeID
+27-08-2024 09:54:43 - INFO - No different year found in pick-up
+27-08-2024 09:54:43 - INFO - In drop-off column: Found 1 rows with different year.
+27-08-2024 09:54:44 - INFO - No different month found in pick-up column
+27-08-2024 09:54:44 - INFO - In column drop-off: Found 2067 rows with different month
+27-08-2024 09:54:45 - INFO - Outliers en trip_distance: 959670 filas encontradas.
+27-08-2024 09:54:45 - INFO - Outliers en total_amount: 838823 filas encontradas.
+27-08-2024 09:54:46 - INFO - Outliers en trip_distance: 959670 filas encontradas.
+27-08-2024 09:54:46 - INFO - Outliers en total_amount: 838823 filas encontradas.
+27-08-2024 09:54:53 - INFO - 
+----- Data for 2017-03 ----------
+
+27-08-2024 09:54:53 - INFO - Size of df: 195613379
+27-08-2024 09:54:53 - INFO - Rows: 10295441
+27-08-2024 09:54:54 - INFO - Found 20590882 NaN
+27-08-2024 09:54:54 - INFO - Found 4931 rows with negative total_amount values.
+27-08-2024 09:54:54 - INFO - Found 204 rows with wrong ratecodeID
+27-08-2024 09:54:54 - INFO - No different year found in pick-up
+27-08-2024 09:54:55 - INFO - No different year found in drop-off
+27-08-2024 09:54:55 - INFO - No different month found in pick-up column
+27-08-2024 09:54:55 - INFO - In column drop-off: Found 5273 rows with different month
+27-08-2024 09:54:56 - INFO - Outliers en trip_distance: 1135845 filas encontradas.
+27-08-2024 09:54:57 - INFO - Outliers en total_amount: 944876 filas encontradas.
+27-08-2024 09:54:57 - INFO - Outliers en trip_distance: 1135845 filas encontradas.
+27-08-2024 09:54:58 - INFO - Outliers en total_amount: 944876 filas encontradas.
+27-08-2024 09:55:01 - INFO - 
+----- Data for 2018-11 ----------
+
+27-08-2024 09:55:01 - INFO - Size of df: 154953531
+27-08-2024 09:55:01 - INFO - Rows: 8155449
+27-08-2024 09:55:02 - INFO - Found 16340458 NaN
+27-08-2024 09:55:02 - INFO - Found 6379 rows with negative total_amount values.
+27-08-2024 09:55:02 - INFO - Found 319 rows with wrong ratecodeID
+27-08-2024 09:55:02 - INFO - In Pick-Up column: Found 61 rows with different year.
+27-08-2024 09:55:03 - INFO - In drop-off column: Found 62 rows with different year.
+27-08-2024 09:55:03 - INFO - In column pick-up: Found 418 rows with different month
+27-08-2024 09:55:03 - INFO - In column drop-off: Found 4890 rows with different month
+27-08-2024 09:55:04 - INFO - Outliers en trip_distance: 942539 filas encontradas.
+27-08-2024 09:55:04 - INFO - Outliers en total_amount: 798991 filas encontradas.
+27-08-2024 09:55:05 - INFO - Outliers en trip_distance: 942539 filas encontradas.
+27-08-2024 09:55:05 - INFO - Outliers en total_amount: 798991 filas encontradas.
+27-08-2024 09:55:12 - INFO - 
+----- Data for 2016-11 ----------
+
+27-08-2024 09:55:12 - INFO - Size of df: 191940432
+27-08-2024 09:55:12 - INFO - Rows: 10102128
+27-08-2024 09:55:12 - INFO - Found 20204256 NaN
+27-08-2024 09:55:12 - INFO - Found 4730 rows with negative total_amount values.
+27-08-2024 09:55:12 - INFO - Found 193 rows with wrong ratecodeID
+27-08-2024 09:55:13 - INFO - No different year found in pick-up
+27-08-2024 09:55:13 - INFO - No different year found in drop-off
+27-08-2024 09:55:13 - INFO - No different month found in pick-up column
+27-08-2024 09:55:14 - INFO - In column drop-off: Found 2994 rows with different month
+27-08-2024 09:55:14 - INFO - Outliers en trip_distance: 1102572 filas encontradas.
+27-08-2024 09:55:15 - INFO - Outliers en total_amount: 919413 filas encontradas.
+27-08-2024 09:55:16 - INFO - Outliers en trip_distance: 1102572 filas encontradas.
+27-08-2024 09:55:16 - INFO - Outliers en total_amount: 919413 filas encontradas.
+27-08-2024 09:55:22 - INFO - 
+----- Data for 2019-03 ----------
+
+27-08-2024 09:55:22 - INFO - Size of df: 149465780
+27-08-2024 09:55:22 - INFO - Rows: 7866620
+27-08-2024 09:55:22 - INFO - Found 8000516 NaN
+27-08-2024 09:55:22 - INFO - Found 11820 rows with negative total_amount values.
+27-08-2024 09:55:22 - INFO - Found 263 rows with wrong ratecodeID
+27-08-2024 09:55:22 - INFO - In Pick-Up column: Found 49 rows with different year.
+27-08-2024 09:55:23 - INFO - In drop-off column: Found 49 rows with different year.
+27-08-2024 09:55:23 - INFO - In column pick-up: Found 509 rows with different month
+27-08-2024 09:55:23 - INFO - In column drop-off: Found 1915 rows with different month
+27-08-2024 09:55:24 - INFO - Outliers en trip_distance: 920307 filas encontradas.
+27-08-2024 09:55:24 - INFO - Outliers en total_amount: 779036 filas encontradas.
+27-08-2024 09:55:25 - INFO - Outliers en trip_distance: 920307 filas encontradas.
+27-08-2024 09:55:25 - INFO - Outliers en total_amount: 779036 filas encontradas.
+27-08-2024 09:55:29 - INFO - 
+----- Data for 2016-05 ----------
+
+27-08-2024 09:55:29 - INFO - Size of df: 224808931
+27-08-2024 09:55:29 - INFO - Rows: 11832049
+27-08-2024 09:55:30 - INFO - Found 23664098 NaN
+27-08-2024 09:55:30 - INFO - Found 4818 rows with negative total_amount values.
+27-08-2024 09:55:30 - INFO - Found 362 rows with wrong ratecodeID
+27-08-2024 09:55:31 - INFO - No different year found in pick-up
+27-08-2024 09:55:31 - INFO - No different year found in drop-off
+27-08-2024 09:55:32 - INFO - No different month found in pick-up column
+27-08-2024 09:55:32 - INFO - In column drop-off: Found 2835 rows with different month
+27-08-2024 09:55:33 - INFO - Outliers en trip_distance: 1284009 filas encontradas.
+27-08-2024 09:55:33 - INFO - Outliers en total_amount: 1125334 filas encontradas.
+27-08-2024 09:55:34 - INFO - Outliers en trip_distance: 1284009 filas encontradas.
+27-08-2024 09:55:35 - INFO - Outliers en total_amount: 1125334 filas encontradas.
+27-08-2024 09:55:36 - INFO - 
+----- Data for 2022-06 ----------
+
+27-08-2024 09:55:36 - INFO - Size of df: 67604356
+27-08-2024 09:55:36 - INFO - Rows: 3558124
+27-08-2024 09:55:37 - INFO - Found 662240 NaN
+27-08-2024 09:55:37 - INFO - Found 22713 rows with negative total_amount values.
+27-08-2024 09:55:37 - INFO - Found 11588 rows with wrong ratecodeID
+27-08-2024 09:55:37 - INFO - In Pick-Up column: Found 447 rows with different year.
+27-08-2024 09:55:37 - INFO - In drop-off column: Found 308 rows with different year.
+27-08-2024 09:55:37 - INFO - In column pick-up: Found 512 rows with different month
+27-08-2024 09:55:37 - INFO - In column drop-off: Found 1514 rows with different month
+27-08-2024 09:55:37 - INFO - Outliers en trip_distance: 444251 filas encontradas.
+27-08-2024 09:55:38 - INFO - Outliers en total_amount: 428387 filas encontradas.
+27-08-2024 09:55:38 - INFO - Outliers en trip_distance: 444251 filas encontradas.
+27-08-2024 09:55:38 - INFO - Outliers en total_amount: 428387 filas encontradas.
+27-08-2024 09:55:39 - INFO - 
+----- Data for 2021-02 ----------
+
+27-08-2024 09:55:39 - INFO - Size of df: 26062471
+27-08-2024 09:55:39 - INFO - Rows: 1371709
+27-08-2024 09:55:39 - INFO - Found 1764692 NaN
+27-08-2024 09:55:39 - INFO - Found 6720 rows with negative total_amount values.
+27-08-2024 09:55:39 - INFO - Found 29 rows with wrong ratecodeID
+27-08-2024 09:55:39 - INFO - In Pick-Up column: Found 21 rows with different year.
+27-08-2024 09:55:39 - INFO - In drop-off column: Found 21 rows with different year.
+27-08-2024 09:55:39 - INFO - In column pick-up: Found 31 rows with different month
+27-08-2024 09:55:39 - INFO - In column drop-off: Found 242 rows with different month
+27-08-2024 09:55:39 - INFO - Outliers en trip_distance: 135621 filas encontradas.
+27-08-2024 09:55:39 - INFO - Outliers en total_amount: 125040 filas encontradas.
+27-08-2024 09:55:40 - INFO - Outliers en trip_distance: 135621 filas encontradas.
+27-08-2024 09:55:40 - INFO - Outliers en total_amount: 125040 filas encontradas.
+27-08-2024 09:55:41 - INFO - 
+----- Data for 2021-10 ----------
+
+27-08-2024 09:55:41 - INFO - Size of df: 65806576
+27-08-2024 09:55:41 - INFO - Rows: 3463504
+27-08-2024 09:55:41 - INFO - Found 682415 NaN
+27-08-2024 09:55:41 - INFO - Found 14235 rows with negative total_amount values.
+27-08-2024 09:55:41 - INFO - Found 2309 rows with wrong ratecodeID
+27-08-2024 09:55:41 - INFO - In Pick-Up column: Found 32 rows with different year.
+27-08-2024 09:55:42 - INFO - In drop-off column: Found 32 rows with different year.
+27-08-2024 09:55:42 - INFO - In column pick-up: Found 111 rows with different month
+27-08-2024 09:55:42 - INFO - In column drop-off: Found 846 rows with different month
+27-08-2024 09:55:42 - INFO - Outliers en trip_distance: 393161 filas encontradas.
+27-08-2024 09:55:42 - INFO - Outliers en total_amount: 360069 filas encontradas.
+27-08-2024 09:55:42 - INFO - Outliers en trip_distance: 393161 filas encontradas.
+27-08-2024 09:55:43 - INFO - Outliers en total_amount: 360069 filas encontradas.
+27-08-2024 09:55:44 - INFO - 
+----- Data for 2022-02 ----------
+
+27-08-2024 09:55:44 - INFO - Size of df: 56609189
+27-08-2024 09:55:44 - INFO - Rows: 2979431
+27-08-2024 09:55:44 - INFO - Found 508690 NaN
+27-08-2024 09:55:44 - INFO - Found 15629 rows with negative total_amount values.
+27-08-2024 09:55:44 - INFO - Found 10867 rows with wrong ratecodeID
+27-08-2024 09:55:44 - INFO - In Pick-Up column: Found 9 rows with different year.
+27-08-2024 09:55:44 - INFO - In drop-off column: Found 9 rows with different year.
+27-08-2024 09:55:44 - INFO - In column pick-up: Found 63 rows with different month
+27-08-2024 09:55:45 - INFO - In column drop-off: Found 561 rows with different month
+27-08-2024 09:55:45 - INFO - Outliers en trip_distance: 326580 filas encontradas.
+27-08-2024 09:55:45 - INFO - Outliers en total_amount: 308481 filas encontradas.
+27-08-2024 09:55:45 - INFO - Outliers en trip_distance: 326580 filas encontradas.
+27-08-2024 09:55:45 - INFO - Outliers en total_amount: 308481 filas encontradas.
+27-08-2024 09:55:47 - INFO - 
+----- Data for 2024-04 ----------
+
+27-08-2024 09:55:47 - INFO - Size of df: 66771491
+27-08-2024 09:55:47 - INFO - Rows: 3514289
+27-08-2024 09:55:47 - INFO - Found 2042880 NaN
+27-08-2024 09:55:47 - INFO - Found 43749 rows with negative total_amount values.
+27-08-2024 09:55:47 - INFO - Found 40271 rows with wrong ratecodeID
+27-08-2024 09:55:47 - INFO - In Pick-Up column: Found 4 rows with different year.
+27-08-2024 09:55:47 - INFO - In drop-off column: Found 4 rows with different year.
+27-08-2024 09:55:47 - INFO - In column pick-up: Found 9 rows with different month
+27-08-2024 09:55:48 - INFO - In column drop-off: Found 744 rows with different month
+27-08-2024 09:55:48 - INFO - Outliers en trip_distance: 436264 filas encontradas.
+27-08-2024 09:55:48 - INFO - Outliers en total_amount: 416393 filas encontradas.
+27-08-2024 09:55:48 - INFO - Outliers en trip_distance: 436264 filas encontradas.
+27-08-2024 09:55:48 - INFO - Outliers en total_amount: 416393 filas encontradas.
+27-08-2024 09:55:50 - INFO - 
+----- Data for 2024-05 ----------
+
+27-08-2024 09:55:50 - INFO - Size of df: 70752827
+27-08-2024 09:55:50 - INFO - Rows: 3723833
+27-08-2024 09:55:50 - INFO - Found 2023330 NaN
+27-08-2024 09:55:50 - INFO - Found 48992 rows with negative total_amount values.
+27-08-2024 09:55:50 - INFO - Found 40934 rows with wrong ratecodeID
+27-08-2024 09:55:51 - INFO - In Pick-Up column: Found 7 rows with different year.
+27-08-2024 09:55:51 - INFO - In drop-off column: Found 7 rows with different year.
+27-08-2024 09:55:51 - INFO - In column pick-up: Found 33 rows with different month
+27-08-2024 09:55:51 - INFO - In column drop-off: Found 1999 rows with different month
+27-08-2024 09:55:51 - INFO - Outliers en trip_distance: 477572 filas encontradas.
+27-08-2024 09:55:51 - INFO - Outliers en total_amount: 449614 filas encontradas.
+27-08-2024 09:55:52 - INFO - Outliers en trip_distance: 477572 filas encontradas.
+27-08-2024 09:55:52 - INFO - Outliers en total_amount: 449614 filas encontradas.
+27-08-2024 09:55:53 - INFO - 
+----- Data for 2022-08 ----------
+
+27-08-2024 09:55:53 - INFO - Size of df: 59900863
+27-08-2024 09:55:53 - INFO - Rows: 3152677
+27-08-2024 09:55:54 - INFO - Found 465870 NaN
+27-08-2024 09:55:54 - INFO - Found 22632 rows with negative total_amount values.
+27-08-2024 09:55:54 - INFO - Found 11953 rows with wrong ratecodeID
+27-08-2024 09:55:54 - INFO - In Pick-Up column: Found 8 rows with different year.
+27-08-2024 09:55:54 - INFO - In drop-off column: Found 8 rows with different year.
+27-08-2024 09:55:54 - INFO - In column pick-up: Found 53 rows with different month
+27-08-2024 09:55:54 - INFO - In column drop-off: Found 1001 rows with different month
+27-08-2024 09:55:54 - INFO - Outliers en trip_distance: 403413 filas encontradas.
+27-08-2024 09:55:54 - INFO - Outliers en total_amount: 396010 filas encontradas.
+27-08-2024 09:55:55 - INFO - Outliers en trip_distance: 403413 filas encontradas.
+27-08-2024 09:55:55 - INFO - Outliers en total_amount: 396010 filas encontradas.
+27-08-2024 09:55:57 - INFO - 
+----- Data for 2022-07 ----------
+
+27-08-2024 09:55:57 - INFO - Size of df: 60313486
+27-08-2024 09:55:57 - INFO - Rows: 3174394
+27-08-2024 09:55:58 - INFO - Found 525970 NaN
+27-08-2024 09:55:58 - INFO - Found 21557 rows with negative total_amount values.
+27-08-2024 09:55:58 - INFO - Found 11244 rows with wrong ratecodeID
+27-08-2024 09:55:58 - INFO - In Pick-Up column: Found 9 rows with different year.
+27-08-2024 09:55:58 - INFO - In drop-off column: Found 9 rows with different year.
+27-08-2024 09:55:58 - INFO - In column pick-up: Found 82 rows with different month
+27-08-2024 09:55:58 - INFO - In column drop-off: Found 680 rows with different month
+27-08-2024 09:55:58 - INFO - Outliers en trip_distance: 394615 filas encontradas.
+27-08-2024 09:55:58 - INFO - Outliers en total_amount: 387515 filas encontradas.
+27-08-2024 09:55:59 - INFO - Outliers en trip_distance: 394615 filas encontradas.
+27-08-2024 09:55:59 - INFO - Outliers en total_amount: 387515 filas encontradas.
+27-08-2024 09:56:00 - INFO - 
+----- Data for 2022-04 ----------
+
+27-08-2024 09:56:00 - INFO - Size of df: 68398480
+27-08-2024 09:56:00 - INFO - Rows: 3599920
+27-08-2024 09:56:00 - INFO - Found 594370 NaN
+27-08-2024 09:56:00 - INFO - Found 19464 rows with negative total_amount values.
+27-08-2024 09:56:00 - INFO - Found 11366 rows with wrong ratecodeID
+27-08-2024 09:56:00 - INFO - In Pick-Up column: Found 7 rows with different year.
+27-08-2024 09:56:01 - INFO - In drop-off column: Found 7 rows with different year.
+27-08-2024 09:56:01 - INFO - In column pick-up: Found 158 rows with different month
+27-08-2024 09:56:01 - INFO - In column drop-off: Found 1817 rows with different month
+27-08-2024 09:56:01 - INFO - Outliers en trip_distance: 435643 filas encontradas.
+27-08-2024 09:56:01 - INFO - Outliers en total_amount: 421606 filas encontradas.
+27-08-2024 09:56:02 - INFO - Outliers en trip_distance: 435643 filas encontradas.
+27-08-2024 09:56:02 - INFO - Outliers en total_amount: 421606 filas encontradas.
+27-08-2024 10:00:06 - INFO - 
+----- Data for 2024-05 ----------
+
+27-08-2024 10:00:06 - INFO - Size of df: 70752827
+27-08-2024 10:00:06 - INFO - Rows: 3723833
+27-08-2024 10:00:06 - INFO - Found 2023330 NaN
+27-08-2024 10:00:06 - INFO - Found 48992 rows with negative total_amount values.
+27-08-2024 10:00:06 - INFO - Found 40934 rows with wrong ratecodeID
+27-08-2024 10:00:07 - INFO - In Pick-Up column: Found 7 rows with different year.
+27-08-2024 10:00:07 - INFO - In drop-off column: Found 7 rows with different year.
+27-08-2024 10:00:07 - INFO - In column pick-up: Found 33 rows with different month
+27-08-2024 10:00:07 - INFO - In column drop-off: Found 1999 rows with different month
+27-08-2024 10:00:07 - INFO - Outliers en trip_distance: 477572 filas encontradas.
+27-08-2024 10:00:07 - INFO - Outliers en total_amount: 449614 filas encontradas.
+27-08-2024 10:00:08 - INFO - Outliers en trip_distance: 477572 filas encontradas.
+27-08-2024 10:00:08 - INFO - Outliers en total_amount: 449614 filas encontradas.
+27-08-2024 10:00:13 - INFO - 
+----- Data for 2011-05 ----------
+
+27-08-2024 10:00:13 - INFO - Size of df: 295542492
+27-08-2024 10:00:13 - INFO - Rows: 15554868
+27-08-2024 10:00:14 - INFO - Found 38766842 NaN
+27-08-2024 10:00:14 - INFO - No negative total_amount values found.
+27-08-2024 10:00:14 - INFO - Found 4870 rows with wrong ratecodeID
+27-08-2024 10:00:15 - INFO - No different year found in pick-up
+27-08-2024 10:00:15 - INFO - No different year found in drop-off
+27-08-2024 10:00:16 - INFO - No different month found in pick-up column
+27-08-2024 10:00:16 - INFO - In column drop-off: Found 3429 rows with different month
+27-08-2024 10:00:17 - INFO - Outliers en trip_distance: 1440369 filas encontradas.
+27-08-2024 10:00:18 - INFO - Outliers en total_amount: 1302514 filas encontradas.
+27-08-2024 10:00:19 - INFO - Outliers en trip_distance: 1440369 filas encontradas.
+27-08-2024 10:00:20 - INFO - Outliers en total_amount: 1302514 filas encontradas.
+27-08-2024 10:00:23 - INFO - 
+----- Data for 2019-02 ----------
+
+27-08-2024 10:00:23 - INFO - Size of df: 133938030
+27-08-2024 10:00:23 - INFO - Rows: 7049370
+27-08-2024 10:00:24 - INFO - Found 7168022 NaN
+27-08-2024 10:00:24 - INFO - Found 9475 rows with negative total_amount values.
+27-08-2024 10:00:24 - INFO - Found 184 rows with wrong ratecodeID
+27-08-2024 10:00:24 - INFO - In Pick-Up column: Found 87 rows with different year.
+27-08-2024 10:00:24 - INFO - In drop-off column: Found 88 rows with different year.
+27-08-2024 10:00:24 - INFO - In column pick-up: Found 622 rows with different month
+27-08-2024 10:00:25 - INFO - In column drop-off: Found 3654 rows with different month
+27-08-2024 10:00:25 - INFO - Outliers en trip_distance: 817255 filas encontradas.
+27-08-2024 10:00:25 - INFO - Outliers en total_amount: 687986 filas encontradas.
+27-08-2024 10:00:26 - INFO - Outliers en trip_distance: 817255 filas encontradas.
+27-08-2024 10:00:26 - INFO - Outliers en total_amount: 687986 filas encontradas.
+27-08-2024 10:00:28 - INFO - 
+----- Data for 2021-10 ----------
+
+27-08-2024 10:00:28 - INFO - Size of df: 65806576
+27-08-2024 10:00:28 - INFO - Rows: 3463504
+27-08-2024 10:00:28 - INFO - Found 682415 NaN
+27-08-2024 10:00:28 - INFO - Found 14235 rows with negative total_amount values.
+27-08-2024 10:00:28 - INFO - Found 2309 rows with wrong ratecodeID
+27-08-2024 10:00:28 - INFO - In Pick-Up column: Found 32 rows with different year.
+27-08-2024 10:00:29 - INFO - In drop-off column: Found 32 rows with different year.
+27-08-2024 10:00:29 - INFO - In column pick-up: Found 111 rows with different month
+27-08-2024 10:00:29 - INFO - In column drop-off: Found 846 rows with different month
+27-08-2024 10:00:29 - INFO - Outliers en trip_distance: 393161 filas encontradas.
+27-08-2024 10:00:29 - INFO - Outliers en total_amount: 360069 filas encontradas.
+27-08-2024 10:00:29 - INFO - Outliers en trip_distance: 393161 filas encontradas.
+27-08-2024 10:00:30 - INFO - Outliers en total_amount: 360069 filas encontradas.
+27-08-2024 10:00:31 - INFO - 
+----- Data for 2023-12 ----------
+
+27-08-2024 10:00:31 - INFO - Size of df: 64154773
+27-08-2024 10:00:31 - INFO - Rows: 3376567
+27-08-2024 10:00:31 - INFO - Found 900015 NaN
+27-08-2024 10:00:31 - INFO - Found 39807 rows with negative total_amount values.
+27-08-2024 10:00:31 - INFO - Found 23252 rows with wrong ratecodeID
+27-08-2024 10:00:32 - INFO - In Pick-Up column: Found 9 rows with different year.
+27-08-2024 10:00:32 - INFO - In drop-off column: Found 531 rows with different year.
+27-08-2024 10:00:32 - INFO - In column pick-up: Found 41 rows with different month
+27-08-2024 10:00:32 - INFO - In column drop-off: Found 537 rows with different month
+27-08-2024 10:00:32 - INFO - Outliers en trip_distance: 431410 filas encontradas.
+27-08-2024 10:00:32 - INFO - Outliers en total_amount: 395752 filas encontradas.
+27-08-2024 10:00:33 - INFO - Outliers en trip_distance: 431410 filas encontradas.
+27-08-2024 10:00:33 - INFO - Outliers en total_amount: 395752 filas encontradas.
+27-08-2024 10:00:38 - INFO - 
+----- Data for 2014-02 ----------
+
+27-08-2024 10:00:38 - INFO - Size of df: 248212086
+27-08-2024 10:00:38 - INFO - Rows: 13063794
+27-08-2024 10:00:39 - INFO - Found 32792566 NaN
+27-08-2024 10:00:39 - INFO - No negative total_amount values found.
+27-08-2024 10:00:39 - INFO - Found 711 rows with wrong ratecodeID
+27-08-2024 10:00:40 - INFO - No different year found in pick-up
+27-08-2024 10:00:40 - INFO - In drop-off column: Found 3 rows with different year.
+27-08-2024 10:00:41 - INFO - No different month found in pick-up column
+27-08-2024 10:00:41 - INFO - In column drop-off: Found 7024 rows with different month
+27-08-2024 10:00:42 - INFO - Outliers en trip_distance: 1210991 filas encontradas.
+27-08-2024 10:00:42 - INFO - Outliers en total_amount: 1085441 filas encontradas.
+27-08-2024 10:00:43 - INFO - Outliers en trip_distance: 1210991 filas encontradas.
+27-08-2024 10:00:44 - INFO - Outliers en total_amount: 1085441 filas encontradas.
+27-08-2024 10:00:49 - INFO - 
+----- Data for 2011-06 ----------
+
+27-08-2024 10:00:49 - INFO - Size of df: 286859359
+27-08-2024 10:00:49 - INFO - Rows: 15097861
+27-08-2024 10:00:50 - INFO - Found 37637501 NaN
+27-08-2024 10:00:50 - INFO - No negative total_amount values found.
+27-08-2024 10:00:50 - INFO - Found 2778 rows with wrong ratecodeID
+27-08-2024 10:00:51 - INFO - No different year found in pick-up
+27-08-2024 10:00:51 - INFO - No different year found in drop-off
+27-08-2024 10:00:52 - INFO - No different month found in pick-up column
+27-08-2024 10:00:52 - INFO - In column drop-off: Found 5879 rows with different month
+27-08-2024 10:00:53 - INFO - Outliers en trip_distance: 1379913 filas encontradas.
+27-08-2024 10:00:54 - INFO - Outliers en total_amount: 1229770 filas encontradas.
+27-08-2024 10:00:54 - INFO - Outliers en trip_distance: 1379913 filas encontradas.
+27-08-2024 10:00:55 - INFO - Outliers en total_amount: 1229770 filas encontradas.
+27-08-2024 10:00:57 - INFO - 
+----- Data for 2022-12 ----------
+
+27-08-2024 10:00:57 - INFO - Size of df: 64591431
+27-08-2024 10:00:57 - INFO - Rows: 3399549
+27-08-2024 10:00:57 - INFO - Found 632315 NaN
+27-08-2024 10:00:57 - INFO - Found 27414 rows with negative total_amount values.
+27-08-2024 10:00:57 - INFO - Found 12402 rows with wrong ratecodeID
+27-08-2024 10:00:57 - INFO - In Pick-Up column: Found 5 rows with different year.
+27-08-2024 10:00:58 - INFO - In drop-off column: Found 590 rows with different year.
+27-08-2024 10:00:58 - INFO - In column pick-up: Found 46 rows with different month
+27-08-2024 10:00:58 - INFO - In column drop-off: Found 601 rows with different month
+27-08-2024 10:00:58 - INFO - Outliers en trip_distance: 440599 filas encontradas.
+27-08-2024 10:00:58 - INFO - Outliers en total_amount: 393524 filas encontradas.
+27-08-2024 10:00:58 - INFO - Outliers en trip_distance: 440599 filas encontradas.
+27-08-2024 10:00:59 - INFO - Outliers en total_amount: 393524 filas encontradas.
+27-08-2024 10:01:03 - INFO - 
+----- Data for 2015-10 ----------
+
+27-08-2024 10:01:03 - INFO - Size of df: 233839327
+27-08-2024 10:01:03 - INFO - Rows: 12307333
+27-08-2024 10:01:04 - INFO - Found 24614666 NaN
+27-08-2024 10:01:04 - INFO - Found 4527 rows with negative total_amount values.
+27-08-2024 10:01:04 - INFO - Found 373 rows with wrong ratecodeID
+27-08-2024 10:01:04 - INFO - No different year found in pick-up
+27-08-2024 10:01:05 - INFO - In drop-off column: Found 1 rows with different year.
+27-08-2024 10:01:05 - INFO - No different month found in pick-up column
+27-08-2024 10:01:05 - INFO - In column drop-off: Found 7639 rows with different month
+27-08-2024 10:01:06 - INFO - Outliers en trip_distance: 1319786 filas encontradas.
+27-08-2024 10:01:07 - INFO - Outliers en total_amount: 1140789 filas encontradas.
+27-08-2024 10:01:07 - INFO - Outliers en trip_distance: 1319786 filas encontradas.
+27-08-2024 10:01:08 - INFO - Outliers en total_amount: 1140789 filas encontradas.
+27-08-2024 10:12:31 - INFO - 
+----- Data for 2018-02 ----------
+
+27-08-2024 10:12:31 - INFO - Size of df: 161363561
+27-08-2024 10:12:31 - INFO - Rows: 8492819
+27-08-2024 10:12:32 - INFO - Found 16985638 NaN
+27-08-2024 10:12:32 - INFO - Found 4407 rows with negative total_amount values.
+27-08-2024 10:12:32 - INFO - Found 109 rows with wrong ratecodeID
+27-08-2024 10:12:32 - INFO - In Pick-Up column: Found 102 rows with different year.
+27-08-2024 10:12:33 - INFO - In drop-off column: Found 103 rows with different year.
+27-08-2024 10:12:33 - INFO - In column pick-up: Found 701 rows with different month
+27-08-2024 10:12:33 - INFO - In column drop-off: Found 3007 rows with different month
+27-08-2024 10:12:34 - INFO - Outliers en trip_distance: 914641 filas encontradas.
+27-08-2024 10:12:34 - INFO - Outliers en total_amount: 787127 filas encontradas.
+27-08-2024 10:12:35 - INFO - Outliers en trip_distance: 914641 filas encontradas.
+27-08-2024 10:12:35 - INFO - Outliers en total_amount: 787127 filas encontradas.
+27-08-2024 10:12:38 - INFO - 
+----- Data for 2019-10 ----------
+
+27-08-2024 10:12:38 - INFO - Size of df: 137063929
+27-08-2024 10:12:38 - INFO - Rows: 7213891
+27-08-2024 10:12:39 - INFO - Found 7400783 NaN
+27-08-2024 10:12:39 - INFO - Found 18142 rows with negative total_amount values.
+27-08-2024 10:12:39 - INFO - Found 431 rows with wrong ratecodeID
+27-08-2024 10:12:39 - INFO - In Pick-Up column: Found 77 rows with different year.
+27-08-2024 10:12:39 - INFO - In drop-off column: Found 77 rows with different year.
+27-08-2024 10:12:40 - INFO - In column pick-up: Found 303 rows with different month
+27-08-2024 10:12:40 - INFO - In column drop-off: Found 3438 rows with different month
+27-08-2024 10:12:40 - INFO - Outliers en trip_distance: 842521 filas encontradas.
+27-08-2024 10:12:41 - INFO - Outliers en total_amount: 720865 filas encontradas.
+27-08-2024 10:12:41 - INFO - Outliers en trip_distance: 842521 filas encontradas.
+27-08-2024 10:12:41 - INFO - Outliers en total_amount: 720865 filas encontradas.
+27-08-2024 10:12:44 - INFO - 
+----- Data for 2018-02 ----------
+
+27-08-2024 10:12:44 - INFO - Size of df: 161363561
+27-08-2024 10:12:44 - INFO - Rows: 8492819
+27-08-2024 10:12:45 - INFO - Found 16985638 NaN
+27-08-2024 10:12:45 - INFO - Found 4407 rows with negative total_amount values.
+27-08-2024 10:12:45 - INFO - Found 109 rows with wrong ratecodeID
+27-08-2024 10:12:45 - INFO - In Pick-Up column: Found 102 rows with different year.
+27-08-2024 10:12:46 - INFO - In drop-off column: Found 103 rows with different year.
+27-08-2024 10:12:46 - INFO - In column pick-up: Found 701 rows with different month
+27-08-2024 10:12:46 - INFO - In column drop-off: Found 3007 rows with different month
+27-08-2024 10:12:47 - INFO - Outliers en trip_distance: 914641 filas encontradas.
+27-08-2024 10:12:47 - INFO - Outliers en total_amount: 787127 filas encontradas.
+27-08-2024 10:12:47 - INFO - Outliers en trip_distance: 914641 filas encontradas.
+27-08-2024 10:12:48 - INFO - Outliers en total_amount: 787127 filas encontradas.
+27-08-2024 10:12:49 - INFO - 
+----- Data for 2020-06 ----------
+
+27-08-2024 10:12:49 - INFO - Size of df: 10446143
+27-08-2024 10:12:49 - INFO - Rows: 549797
+27-08-2024 10:12:49 - INFO - Found 752669 NaN
+27-08-2024 10:12:49 - INFO - Found 2531 rows with negative total_amount values.
+27-08-2024 10:12:49 - INFO - Found 57 rows with wrong ratecodeID
+27-08-2024 10:12:49 - INFO - In Pick-Up column: Found 3 rows with different year.
+27-08-2024 10:12:49 - INFO - In drop-off column: Found 4 rows with different year.
+27-08-2024 10:12:49 - INFO - In column pick-up: Found 9 rows with different month
+27-08-2024 10:12:49 - INFO - In column drop-off: Found 109 rows with different month
+27-08-2024 10:12:49 - INFO - Outliers en trip_distance: 60900 filas encontradas.
+27-08-2024 10:12:50 - INFO - Outliers en total_amount: 57640 filas encontradas.
+27-08-2024 10:12:50 - INFO - Outliers en trip_distance: 60900 filas encontradas.
+27-08-2024 10:12:50 - INFO - Outliers en total_amount: 57640 filas encontradas.
+27-08-2024 10:12:57 - INFO - 
+----- Data for 2013-08 ----------
+
+27-08-2024 10:12:57 - INFO - Size of df: 221948975
+27-08-2024 10:12:57 - INFO - Rows: 11681525
+27-08-2024 10:12:58 - INFO - Found 28543951 NaN
+27-08-2024 10:12:58 - INFO - Found 3064 rows with negative total_amount values.
+27-08-2024 10:12:58 - INFO - Found 469 rows with wrong ratecodeID
+27-08-2024 10:13:00 - INFO - No different year found in pick-up
+27-08-2024 10:13:00 - INFO - No different year found in drop-off
+27-08-2024 10:13:02 - INFO - No different month found in pick-up column
+27-08-2024 10:13:03 - INFO - In column drop-off: Found 4967 rows with different month
+27-08-2024 10:13:03 - INFO - Outliers en trip_distance: 1122852 filas encontradas.
+27-08-2024 10:13:04 - INFO - Outliers en total_amount: 1021511 filas encontradas.
+27-08-2024 10:13:04 - INFO - Outliers en trip_distance: 1122852 filas encontradas.
+27-08-2024 10:13:05 - INFO - Outliers en total_amount: 1021511 filas encontradas.
+27-08-2024 10:13:06 - INFO - 
+----- Data for 2021-07 ----------
+
+27-08-2024 10:13:06 - INFO - Size of df: 53613174
+27-08-2024 10:13:06 - INFO - Rows: 2821746
+27-08-2024 10:13:07 - INFO - Found 653280 NaN
+27-08-2024 10:13:07 - INFO - Found 13221 rows with negative total_amount values.
+27-08-2024 10:13:07 - INFO - Found 278 rows with wrong ratecodeID
+27-08-2024 10:13:07 - INFO - In Pick-Up column: Found 61 rows with different year.
+27-08-2024 10:13:07 - INFO - In drop-off column: Found 61 rows with different year.
+27-08-2024 10:13:07 - INFO - In column pick-up: Found 130 rows with different month
+27-08-2024 10:13:07 - INFO - In column drop-off: Found 1222 rows with different month
+27-08-2024 10:13:07 - INFO - Outliers en trip_distance: 321009 filas encontradas.
+27-08-2024 10:13:07 - INFO - Outliers en total_amount: 306349 filas encontradas.
+27-08-2024 10:13:08 - INFO - Outliers en trip_distance: 321009 filas encontradas.
+27-08-2024 10:13:08 - INFO - Outliers en total_amount: 306349 filas encontradas.
+27-08-2024 10:13:11 - INFO - 
+----- Data for 2020-02 ----------
+
+27-08-2024 10:13:11 - INFO - Size of df: 119687973
+27-08-2024 10:13:11 - INFO - Rows: 6299367
+27-08-2024 10:13:11 - INFO - Found 6494703 NaN
+27-08-2024 10:13:11 - INFO - Found 20000 rows with negative total_amount values.
+27-08-2024 10:13:11 - INFO - Found 313 rows with wrong ratecodeID
+27-08-2024 10:13:12 - INFO - In Pick-Up column: Found 31 rows with different year.
+27-08-2024 10:13:12 - INFO - In drop-off column: Found 31 rows with different year.
+27-08-2024 10:13:12 - INFO - In column pick-up: Found 303 rows with different month
+27-08-2024 10:13:12 - INFO - In column drop-off: Found 3333 rows with different month
+27-08-2024 10:13:13 - INFO - Outliers en trip_distance: 695696 filas encontradas.
+27-08-2024 10:13:13 - INFO - Outliers en total_amount: 586119 filas encontradas.
+27-08-2024 10:13:13 - INFO - Outliers en trip_distance: 695696 filas encontradas.
+27-08-2024 10:13:14 - INFO - Outliers en total_amount: 586119 filas encontradas.
+27-08-2024 10:13:18 - INFO - 
+----- Data for 2014-10 ----------
+
+27-08-2024 10:13:19 - INFO - Size of df: 272037706
+27-08-2024 10:13:19 - INFO - Rows: 14317774
+27-08-2024 10:13:19 - INFO - Found 42953308 NaN
+27-08-2024 10:13:19 - INFO - Found 3807 rows with negative total_amount values.
+27-08-2024 10:13:20 - INFO - Found 1472 rows with wrong ratecodeID
+27-08-2024 10:13:20 - INFO - No different year found in pick-up
+27-08-2024 10:13:21 - INFO - No different year found in drop-off
+27-08-2024 10:13:21 - INFO - No different month found in pick-up column
+27-08-2024 10:13:22 - INFO - In column drop-off: Found 8692 rows with different month
+27-08-2024 10:13:22 - INFO - Outliers en trip_distance: 1458269 filas encontradas.
+27-08-2024 10:13:23 - INFO - Outliers en total_amount: 1237790 filas encontradas.
+27-08-2024 10:13:24 - INFO - Outliers en trip_distance: 1458269 filas encontradas.
+27-08-2024 10:13:25 - INFO - Outliers en total_amount: 1237790 filas encontradas.
+27-08-2024 10:13:27 - INFO - 
+----- Data for 2019-12 ----------
+
+27-08-2024 10:13:28 - INFO - Size of df: 131030023
+27-08-2024 10:13:28 - INFO - Rows: 6896317
+27-08-2024 10:13:28 - INFO - Found 7100389 NaN
+27-08-2024 10:13:28 - INFO - Found 20824 rows with negative total_amount values.
+27-08-2024 10:13:28 - INFO - Found 521 rows with wrong ratecodeID
+27-08-2024 10:13:28 - INFO - In Pick-Up column: Found 224 rows with different year.
+27-08-2024 10:13:29 - INFO - In drop-off column: Found 1411 rows with different year.
+27-08-2024 10:13:29 - INFO - In column pick-up: Found 348 rows with different month
+27-08-2024 10:13:29 - INFO - In column drop-off: Found 1418 rows with different month
+27-08-2024 10:13:30 - INFO - Outliers en trip_distance: 803270 filas encontradas.
+27-08-2024 10:13:30 - INFO - Outliers en total_amount: 661086 filas encontradas.
+27-08-2024 10:13:30 - INFO - Outliers en trip_distance: 803270 filas encontradas.
+27-08-2024 10:13:31 - INFO - Outliers en total_amount: 661086 filas encontradas.

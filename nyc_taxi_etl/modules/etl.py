@@ -8,6 +8,7 @@ def load_taxi_tripdata():
     connection = postgres_connection()
 
     # ---- Extract ----
+    # Extract a parquet file form a URL
     taxi_df = pd.read_parquet(url, engine='pyarrow')
 
     print(taxi_df.head())
@@ -64,6 +65,7 @@ def load_taxi_tripdata():
         (taxi_data_prep['trip_distance'] >= lower_distance) & (taxi_data_prep['trip_distance'] <= upper_distance)
     ]
 
+    # ---- Loading data into database
     insert_with_progress(
     connection,
     taxi_df_cleaned,
@@ -74,7 +76,7 @@ def load_taxi_tripdata():
 
 
 
-# ---- Load ----
+# ---- Load in chunks----
 def chunker(seq, size):
     # from http://stackoverflow.com/a/434328
     return (seq[pos:pos + size] for pos in range(0, len(seq), size))
