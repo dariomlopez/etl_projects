@@ -5,7 +5,7 @@ import random
 from modules import utils
 from modules.logger import logger
 
-#  years previous to 2011 throw errors because of different datatypes. At the end are just two years left outsid5
+#  years previous to 2011 throw errors because of different datatypes. At the end are just two years left outside
 years = list(range(2011, 2025))
 
 months = list(range(1, 13))

@@ -29,7 +29,8 @@ def etl_taxi_tripdata():
     taxi_df.rename(columns={
         'tpep_pickup_datetime':'pickup_datetime', 
         'tpep_dropoff_datetime':'dropoff_datetime',
-        'pulocation_id':'pickup_location', 'dolocation_id':'dropoff_location'}, inplace=True)
+        'pulocation_id':'pickup_location', 
+        'dolocation_id':'dropoff_location'}, inplace=True)
 
     # ---- Cleaning columns: erase where RatecodeID is > 6, erase negative values in total_amount and drop null data ----
     taxi_df_filtered = taxi_df[(taxi_df['ratecode_id'] <= 6) & (taxi_df['total_amount'] > 0)]
@@ -49,20 +50,20 @@ def etl_taxi_tripdata():
         (taxi_df_filtered['pickup_datetime'].dt.year != 2024)
         ].index)
 
-    taxi_data_prep = taxi_data_prep.drop(
+    taxi_df_cleaned = taxi_data_prep.drop(
         taxi_data_prep[
             (taxi_data_prep['pickup_datetime'].dt.month > 1) |
             (taxi_df_filtered['dropoff_datetime'].dt.month > 1)
-            ].index, inplace=True)
+            ].index)
     
     # ---- droping outliers in trip distance and total amount ----
-    lower_amount, upper_amount = calculate_thresholds(taxi_data_prep, 'total_amount')
-    lower_distance, upper_distance = calculate_thresholds(taxi_data_prep, 'trip_distance')
+    lower_amount, upper_amount = calculate_thresholds(taxi_df_cleaned, 'total_amount')
+    lower_distance, upper_distance = calculate_thresholds(taxi_df_cleaned, 'trip_distance')
 
     # Filter the data to remove outliers
-    taxi_df_cleaned = taxi_data_prep[
-        (taxi_data_prep['total_amount'] >= lower_amount) & (taxi_data_prep['total_amount'] <= upper_amount) &
-        (taxi_data_prep['trip_distance'] >= lower_distance) & (taxi_data_prep['trip_distance'] <= upper_distance)
+    taxi_df_cleaned = taxi_df_cleaned[
+        (taxi_df_cleaned['total_amount'] >= lower_amount) & (taxi_df_cleaned['total_amount'] <= upper_amount) &
+        (taxi_df_cleaned['trip_distance'] >= lower_distance) & (taxi_df_cleaned['trip_distance'] <= upper_distance)
     ]
 
     # ---- Loading data into database
